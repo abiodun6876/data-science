@@ -1,0 +1,1001 @@
+Customer_ID,First_Name,Last_Name,Gender,Age,Account_Type,Balance,Loan_Amount,Loan_Status,Credit_Score,Region,Marital_Status,Employment_Status,Number_of_Accounts,Date_Joined
+CUST00001,Jane,Davis,Male,43,Savings,79760.59,0.0,Approved,567,West,Single,Employed,7,2000-01-01
+CUST00002,Jane,Garcia,Female,20,Current,1246.06,0.0,Pending,720,Central,Single,Employed,1,2000-01-09
+CUST00003,Anna,Williams,Male,34,Savings,84386.24,26589.0,Approved,793,Central,Single,Employed,3,2000-01-18
+CUST00004,John,Davis,Male,51,Savings,62973.14,26589.0,Rejected,736,Central,Single,Employed,8,2000-01-27
+CUST00005,David,Williams,Male,70,Savings,67261.97,26589.0,Pending,735,South,Married,Self-Employed,4,2000-02-05
+CUST00006,Sarah,Hernandez,Female,25,Fixed Deposit,49079.05,26589.0,Pending,679,East,Widowed,Employed,5,2000-02-13
+CUST00007,Michael,Davis,Male,51,Current,23234.95,26589.0,Approved,550,West,Married,Employed,9,2000-02-22
+CUST00008,David,Miller,Female,60,Current,45399.36,26589.0,Approved,401,Central,Married,Self-Employed,8,2000-03-02
+CUST00009,Chris,Brown,Female,18,Savings,98722.52,26589.0,Rejected,504,Central,Divorced,Employed,8,2000-03-11
+CUST00010,Anna,Brown,Male,51,Savings,72083.15,26589.0,Approved,685,North,Divorced,Unemployed,3,2000-03-19
+CUST00011,Anna,Davis,Male,57,Current,33856.09,26589.0,Pending,405,North,Married,Self-Employed,6,2000-03-28
+CUST00012,Sarah,Miller,Male,26,Current,99473.57,0.0,Approved,752,North,Single,Unemployed,4,2000-04-06
+CUST00013,Robert,Brown,Male,57,Current,29578.78,26589.0,Approved,382,North,Divorced,Self-Employed,7,2000-04-15
+CUST00014,Laura,Williams,Female,41,Savings,27948.55,0.0,Approved,846,North,Single,Unemployed,7,2000-04-24
+CUST00015,Chris,Johnson,Male,29,Fixed Deposit,51412.3,26589.0,Approved,526,East,Single,Employed,4,2000-05-02
+CUST00016,Sarah,Miller,Female,77,Current,83550.46,0.0,Approved,564,East,Single,Unemployed,6,2000-05-11
+CUST00017,Anna,Williams,Male,42,Current,60657.9,26589.0,Approved,389,West,Married,Self-Employed,9,2000-05-20
+CUST00018,Chris,Hernandez,Female,27,Savings,58580.98,0.0,Approved,456,Central,Married,Employed,6,2000-05-29
+CUST00019,Jane,Martinez,Male,26,Current,98943.4,26589.0,Rejected,819,West,Married,Self-Employed,4,2000-06-06
+CUST00020,Sarah,Jones,Female,44,Salary,57408.28,0.0,Pending,813,North,Single,Employed,5,2000-06-15
+CUST00021,Chris,Brown,Male,31,Current,66364.37,0.0,Rejected,653,East,Single,Employed,6,2000-06-24
+CUST00022,Michael,Johnson,Female,56,Current,73429.3,26589.0,Pending,849,North,Widowed,Employed,8,2000-07-03
+CUST00023,Jane,Davis,Female,49,Current,96951.9,0.0,Approved,673,North,Married,Employed,9,2000-07-12
+CUST00024,David,Hernandez,Male,64,Current,27592.36,26589.0,Pending,795,Central,Married,Employed,4,2000-07-20
+CUST00025,John,Garcia,Female,39,Savings,69663.85,0.0,Approved,583,West,Single,Employed,3,2000-07-29
+CUST00026,Chris,Smith,Non-Binary,46,Savings,33497.96,0.0,Rejected,630,West,Single,Self-Employed,5,2000-08-07
+CUST00027,Emily,Hernandez,Male,73,Current,15346.64,0.0,Approved,694,Central,Single,Employed,4,2000-08-16
+CUST00028,Sarah,Miller,Female,44,Savings,19495.06,26589.0,Rejected,327,Central,Single,Unemployed,7,2000-08-24
+CUST00029,Michael,Johnson,Female,72,Current,44793.08,26589.0,Approved,518,Central,Married,Unemployed,6,2000-09-02
+CUST00030,David,Martinez,Male,33,Savings,20271.15,0.0,Pending,520,East,Single,Self-Employed,1,2000-09-11
+CUST00031,Michael,Hernandez,Male,35,Savings,21410.6,0.0,Pending,562,East,Married,Employed,5,2000-09-20
+CUST00032,Anna,Miller,Female,22,Current,54347.64,26589.0,Pending,707,West,Single,Unemployed,2,2000-09-28
+CUST00033,Michael,Martinez,Male,36,Fixed Deposit,85761.74,0.0,Approved,592,North,Married,Unemployed,3,2000-10-07
+CUST00034,Sarah,Hernandez,Male,71,Savings,97571.88,0.0,Approved,389,East,Divorced,Unemployed,1,2000-10-16
+CUST00035,Michael,Johnson,Male,50,Savings,77053.07,26589.0,Approved,479,East,Married,Employed,5,2000-10-25
+CUST00036,David,Smith,Male,70,Savings,5998.4,26589.0,Pending,332,South,Married,Unemployed,4,2000-11-03
+CUST00037,Sarah,Miller,Male,18,Fixed Deposit,96294.38,26589.0,Approved,687,Central,Single,Employed,8,2000-11-11
+CUST00038,Sarah,Smith,Male,74,Fixed Deposit,33906.16,0.0,Rejected,571,South,Married,Unemployed,3,2000-11-20
+CUST00039,Michael,Smith,Female,79,Savings,13421.41,26589.0,Approved,843,South,Single,Self-Employed,6,2000-11-29
+CUST00040,Chris,Miller,Female,79,Savings,32767.58,26589.0,Approved,430,West,Single,Retired,1,2000-12-08
+CUST00041,Emily,Garcia,Female,79,Savings,15239.62,26589.0,Pending,333,East,Single,Retired,4,2000-12-16
+CUST00042,Jane,Brown,Male,35,Savings,17201.71,0.0,Rejected,803,South,Single,Employed,3,2000-12-25
+CUST00043,Michael,Davis,Male,44,Current,71280.5,26589.0,Approved,727,South,Single,Self-Employed,1,2001-01-03
+CUST00044,Jane,Jones,Female,27,Salary,31671.5,26589.0,Approved,678,East,Divorced,Employed,9,2001-01-12
+CUST00045,Laura,Williams,Male,27,Savings,12779.04,0.0,Pending,551,North,Single,Employed,5,2001-01-21
+CUST00046,Laura,Davis,Male,44,Savings,12959.07,0.0,Rejected,817,South,Married,Employed,4,2001-01-29
+CUST00047,Emily,Brown,Male,19,Savings,95148.48,26589.0,Rejected,335,West,Married,Employed,6,2001-02-07
+CUST00048,Laura,Garcia,Male,73,Current,32013.42,0.0,Approved,815,West,Married,Retired,4,2001-02-16
+CUST00049,Chris,Williams,Male,59,Fixed Deposit,66693.64,0.0,Pending,772,North,Single,Employed,1,2001-02-25
+CUST00050,Michael,Johnson,Male,37,Savings,78924.23,0.0,Approved,666,West,Single,Employed,1,2001-03-05
+CUST00051,Robert,Jones,Female,22,Savings,99683.53,26589.0,Approved,798,North,Married,Employed,5,2001-03-14
+CUST00052,Michael,Williams,Female,71,Salary,96446.33,0.0,Pending,605,South,Married,Self-Employed,4,2001-03-23
+CUST00053,Anna,Smith,Female,33,Savings,90480.23,0.0,Approved,756,Central,Single,Self-Employed,2,2001-04-01
+CUST00054,David,Davis,Female,37,Current,2129.96,26589.0,Pending,399,West,Married,Employed,7,2001-04-10
+CUST00055,Laura,Williams,Female,36,Fixed Deposit,29317.27,0.0,Approved,449,East,Married,Employed,4,2001-04-18
+CUST00056,Laura,Garcia,Male,54,Savings,61856.62,0.0,Approved,615,West,Married,Unemployed,1,2001-04-27
+CUST00057,Chris,Garcia,Male,29,Savings,38344.92,0.0,Approved,782,North,Married,Retired,8,2001-05-06
+CUST00058,Jane,Johnson,Male,25,Fixed Deposit,77260.15,0.0,Approved,516,East,Divorced,Employed,3,2001-05-15
+CUST00059,Michael,Brown,Non-Binary,39,Fixed Deposit,46007.29,26589.0,Pending,809,Central,Single,Employed,9,2001-05-23
+CUST00060,Laura,Hernandez,Male,47,Current,65680.07,26589.0,Pending,430,North,Single,Employed,5,2001-06-01
+CUST00061,David,Martinez,Non-Binary,77,Salary,42021.96,0.0,Approved,476,North,Single,Self-Employed,6,2001-06-10
+CUST00062,Robert,Martinez,Male,46,Current,69074.23,0.0,Approved,535,North,Single,Employed,5,2001-06-19
+CUST00063,Anna,Miller,Female,34,Fixed Deposit,51330.91,26589.0,Approved,414,South,Single,Unemployed,8,2001-06-27
+CUST00064,Sarah,Smith,Male,41,Savings,54635.1,0.0,Pending,522,South,Single,Retired,3,2001-07-06
+CUST00065,Jane,Jones,Female,53,Current,10099.83,0.0,Approved,353,North,Married,Retired,1,2001-07-15
+CUST00066,Jane,Davis,Female,66,Savings,2482.36,0.0,Pending,475,West,Married,Employed,7,2001-07-24
+CUST00067,Jane,Miller,Male,22,Savings,4902.79,0.0,Approved,686,East,Divorced,Employed,4,2001-08-02
+CUST00068,Anna,Johnson,Male,69,Savings,41947.17,26589.0,Approved,602,North,Married,Self-Employed,5,2001-08-10
+CUST00069,Jane,Davis,Male,68,Salary,80563.19,0.0,Pending,322,South,Single,Unemployed,2,2001-08-19
+CUST00070,Sarah,Williams,Male,54,Savings,26087.49,26589.0,Rejected,638,West,Married,Employed,8,2001-08-28
+CUST00071,Jane,Davis,Male,51,Current,39978.28,0.0,Pending,603,East,Married,Unemployed,3,2001-09-06
+CUST00072,Emily,Smith,Male,54,Savings,20569.44,26589.0,Approved,585,Central,Married,Self-Employed,9,2001-09-14
+CUST00073,Emily,Hernandez,Female,20,Current,41977.59,0.0,Approved,818,East,Single,Employed,7,2001-09-23
+CUST00074,Jane,Williams,Female,53,Fixed Deposit,65791.73,0.0,Approved,670,Central,Married,Self-Employed,7,2001-10-02
+CUST00075,Jane,Brown,Male,66,Savings,39196.96,0.0,Approved,676,Central,Married,Employed,1,2001-10-11
+CUST00076,David,Davis,Non-Binary,28,Fixed Deposit,35868.89,0.0,Approved,634,East,Married,Retired,1,2001-10-20
+CUST00077,Robert,Davis,Female,70,Current,52122.12,0.0,Approved,443,South,Married,Employed,1,2001-10-28
+CUST00078,Chris,Martinez,Female,43,Savings,78507.35,26589.0,Approved,723,South,Divorced,Unemployed,7,2001-11-06
+CUST00079,Robert,Johnson,Male,56,Salary,3359.55,26589.0,Pending,793,South,Single,Unemployed,5,2001-11-15
+CUST00080,Anna,Davis,Female,63,Current,64440.07,0.0,Pending,372,East,Married,Employed,4,2001-11-24
+CUST00081,John,Brown,Male,65,Fixed Deposit,9819.81,0.0,Approved,632,East,Married,Employed,1,2001-12-02
+CUST00082,Robert,Garcia,Male,57,Savings,94658.05,26589.0,Pending,715,South,Married,Unemployed,5,2001-12-11
+CUST00083,Sarah,Martinez,Female,22,Savings,12936.11,0.0,Approved,722,North,Single,Employed,9,2001-12-20
+CUST00084,Anna,Smith,Female,70,Salary,88614.23,0.0,Approved,737,South,Married,Employed,8,2001-12-29
+CUST00085,John,Smith,Female,78,Fixed Deposit,71330.48,26589.0,Approved,604,North,Married,Self-Employed,9,2002-01-06
+CUST00086,Jane,Smith,Male,21,Savings,95694.1,0.0,Pending,558,West,Single,Employed,4,2002-01-15
+CUST00087,John,Davis,Female,47,Current,98178.98,0.0,Approved,356,West,Single,Employed,2,2002-01-24
+CUST00088,Sarah,Smith,Male,47,Savings,20545.69,0.0,Pending,674,North,Married,Employed,5,2002-02-02
+CUST00089,John,Johnson,Female,64,Current,1776.44,0.0,Pending,763,West,Married,Employed,3,2002-02-11
+CUST00090,Anna,Davis,Female,30,Savings,19707.91,26589.0,Pending,510,South,Married,Retired,6,2002-02-19
+CUST00091,Anna,Brown,Male,44,Savings,81926.99,26589.0,Pending,835,South,Single,Retired,2,2002-02-28
+CUST00092,David,Davis,Female,56,Savings,18449.44,0.0,Pending,393,West,Single,Unemployed,4,2002-03-09
+CUST00093,Chris,Jones,Female,69,Savings,8018.56,0.0,Approved,574,East,Single,Retired,8,2002-03-18
+CUST00094,Robert,Martinez,Male,41,Savings,8067.56,0.0,Approved,460,Central,Married,Unemployed,7,2002-03-26
+CUST00095,Robert,Garcia,Female,23,Fixed Deposit,97021.67,0.0,Approved,397,East,Single,Employed,1,2002-04-04
+CUST00096,Michael,Brown,Male,71,Current,13339.96,0.0,Pending,668,South,Married,Retired,8,2002-04-13
+CUST00097,Sarah,Martinez,Male,40,Savings,98296.16,26589.0,Approved,520,South,Single,Retired,6,2002-04-22
+CUST00098,Emily,Hernandez,Non-Binary,45,Fixed Deposit,59793.88,26589.0,Approved,315,South,Single,Retired,4,2002-05-01
+CUST00099,Laura,Miller,Male,25,Fixed Deposit,78492.21,0.0,Pending,448,Central,Single,Unemployed,7,2002-05-09
+CUST00100,John,Brown,Female,50,Current,24824.89,26589.0,Pending,573,South,Single,Employed,9,2002-05-18
+CUST00101,Chris,Martinez,Male,22,Savings,12805.38,0.0,Approved,349,Central,Single,Unemployed,7,2002-05-27
+CUST00102,Emily,Garcia,Male,79,Savings,24067.23,26589.0,Approved,314,North,Married,Self-Employed,4,2002-06-05
+CUST00103,Laura,Johnson,Female,33,Current,20569.79,0.0,Pending,747,East,Single,Self-Employed,6,2002-06-13
+CUST00104,Robert,Johnson,Female,35,Current,39132.13,0.0,Approved,845,South,Married,Employed,4,2002-06-22
+CUST00105,Robert,Williams,Male,67,Savings,61094.12,0.0,Rejected,602,Central,Married,Employed,6,2002-07-01
+CUST00106,Robert,Johnson,Male,66,Current,36511.98,26589.0,Pending,424,West,Single,Unemployed,8,2002-07-10
+CUST00107,Anna,Johnson,Female,78,Salary,10103.02,0.0,Pending,475,East,Single,Unemployed,5,2002-07-19
+CUST00108,Chris,Johnson,Male,23,Savings,81232.96,0.0,Approved,382,East,Single,Employed,5,2002-07-27
+CUST00109,Sarah,Miller,Male,63,Savings,25818.1,0.0,Approved,424,West,Single,Employed,4,2002-08-05
+CUST00110,Sarah,Martinez,Male,40,Current,24315.29,0.0,Approved,521,Central,Married,Employed,4,2002-08-14
+CUST00111,Chris,Miller,Female,23,Savings,6821.98,0.0,Approved,394,East,Married,Self-Employed,1,2002-08-23
+CUST00112,Laura,Williams,Female,21,Current,57476.84,0.0,Rejected,398,East,Married,Employed,2,2002-08-31
+CUST00113,Emily,Johnson,Female,24,Savings,54644.63,0.0,Approved,548,South,Single,Self-Employed,7,2002-09-09
+CUST00114,Chris,Garcia,Female,78,Savings,33435.98,0.0,Approved,686,East,Single,Retired,8,2002-09-18
+CUST00115,Laura,Garcia,Female,73,Fixed Deposit,33588.83,26589.0,Rejected,657,South,Married,Employed,1,2002-09-27
+CUST00116,Chris,Davis,Male,22,Savings,63252.96,0.0,Pending,836,North,Married,Employed,6,2002-10-05
+CUST00117,Laura,Smith,Female,71,Savings,34995.46,0.0,Approved,783,West,Single,Unemployed,5,2002-10-14
+CUST00118,Michael,Jones,Female,61,Savings,58965.04,0.0,Rejected,817,South,Single,Employed,6,2002-10-23
+CUST00119,Chris,Smith,Female,34,Salary,39305.19,0.0,Rejected,775,Central,Married,Employed,8,2002-11-01
+CUST00120,John,Smith,Female,29,Savings,93347.99,26589.0,Rejected,639,North,Divorced,Retired,3,2002-11-10
+CUST00121,Chris,Davis,Female,34,Salary,64653.24,0.0,Rejected,336,Central,Married,Self-Employed,7,2002-11-18
+CUST00122,Emily,Davis,Male,72,Savings,72334.12,0.0,Approved,572,Central,Married,Employed,8,2002-11-27
+CUST00123,Robert,Garcia,Male,23,Savings,70527.02,0.0,Approved,344,South,Married,Retired,3,2002-12-06
+CUST00124,Anna,Miller,Female,52,Current,33861.33,0.0,Pending,839,South,Single,Unemployed,4,2002-12-15
+CUST00125,Robert,Martinez,Male,23,Salary,57180.47,26589.0,Rejected,488,North,Single,Self-Employed,1,2002-12-23
+CUST00126,David,Smith,Female,74,Savings,8531.81,0.0,Approved,616,East,Married,Retired,5,2003-01-01
+CUST00127,Chris,Hernandez,Male,18,Fixed Deposit,73716.98,26589.0,Approved,804,South,Single,Employed,7,2003-01-10
+CUST00128,Emily,Miller,Male,59,Savings,38761.49,0.0,Rejected,795,West,Married,Employed,4,2003-01-19
+CUST00129,John,Johnson,Male,19,Savings,54182.69,0.0,Pending,510,West,Married,Employed,1,2003-01-28
+CUST00130,Michael,Hernandez,Female,52,Fixed Deposit,89076.23,26589.0,Pending,550,Central,Married,Self-Employed,1,2003-02-05
+CUST00131,Jane,Jones,Male,54,Savings,33036.48,0.0,Rejected,566,East,Married,Retired,7,2003-02-14
+CUST00132,John,Brown,Male,26,Fixed Deposit,40759.86,0.0,Rejected,815,South,Single,Retired,4,2003-02-23
+CUST00133,Laura,Brown,Female,30,Current,75908.68,0.0,Rejected,480,West,Married,Retired,1,2003-03-04
+CUST00134,Jane,Williams,Female,28,Savings,66024.83,0.0,Pending,573,East,Married,Self-Employed,7,2003-03-12
+CUST00135,Emily,Miller,Female,54,Savings,23707.08,26589.0,Approved,471,North,Married,Employed,2,2003-03-21
+CUST00136,John,Miller,Male,24,Fixed Deposit,24213.62,0.0,Pending,656,East,Married,Retired,7,2003-03-30
+CUST00137,Michael,Garcia,Male,52,Savings,45603.71,26589.0,Approved,776,East,Divorced,Employed,8,2003-04-08
+CUST00138,Sarah,Brown,Female,60,Savings,13089.03,26589.0,Pending,341,West,Married,Self-Employed,4,2003-04-17
+CUST00139,Anna,Martinez,Female,44,Fixed Deposit,3668.04,26589.0,Pending,776,South,Married,Self-Employed,3,2003-04-25
+CUST00140,Sarah,Johnson,Female,34,Current,98329.8,26589.0,Approved,359,East,Single,Unemployed,6,2003-05-04
+CUST00141,Anna,Martinez,Female,31,Savings,9685.21,0.0,Pending,733,West,Single,Retired,4,2003-05-13
+CUST00142,Jane,Williams,Male,58,Fixed Deposit,59026.85,0.0,Approved,583,South,Married,Self-Employed,6,2003-05-22
+CUST00143,Chris,Smith,Male,72,Savings,58293.6,0.0,Approved,300,West,Single,Employed,7,2003-05-30
+CUST00144,David,Garcia,Non-Binary,64,Savings,34134.8,26589.0,Rejected,304,West,Single,Employed,5,2003-06-08
+CUST00145,David,Jones,Female,79,Savings,76722.84,26589.0,Rejected,618,West,Divorced,Unemployed,7,2003-06-17
+CUST00146,Robert,Smith,Male,43,Fixed Deposit,34000.07,26589.0,Approved,582,East,Single,Employed,4,2003-06-26
+CUST00147,Sarah,Smith,Female,73,Current,77817.14,0.0,Pending,454,South,Married,Employed,5,2003-07-04
+CUST00148,Jane,Martinez,Female,40,Savings,32951.49,0.0,Approved,657,Central,Divorced,Unemployed,1,2003-07-13
+CUST00149,Robert,Davis,Female,30,Savings,48919.55,0.0,Rejected,722,South,Married,Employed,1,2003-07-22
+CUST00150,Jane,Johnson,Male,74,Current,81280.48,0.0,Pending,823,South,Single,Employed,9,2003-07-31
+CUST00151,Laura,Miller,Female,62,Current,48601.05,26589.0,Rejected,331,East,Divorced,Employed,5,2003-08-09
+CUST00152,Jane,Hernandez,Male,33,Fixed Deposit,59207.52,26589.0,Pending,770,South,Divorced,Self-Employed,3,2003-08-17
+CUST00153,Sarah,Hernandez,Female,27,Salary,43527.04,0.0,Approved,572,South,Single,Retired,1,2003-08-26
+CUST00154,Jane,Johnson,Male,47,Fixed Deposit,13157.27,26589.0,Pending,830,West,Single,Unemployed,4,2003-09-04
+CUST00155,Jane,Garcia,Male,61,Savings,66260.14,26589.0,Approved,403,West,Married,Retired,9,2003-09-13
+CUST00156,Emily,Miller,Female,47,Current,69156.7,0.0,Pending,668,West,Single,Employed,1,2003-09-21
+CUST00157,Laura,Martinez,Female,67,Salary,78910.88,0.0,Pending,690,North,Single,Employed,8,2003-09-30
+CUST00158,John,Smith,Female,30,Savings,9937.38,0.0,Approved,390,West,Divorced,Employed,3,2003-10-09
+CUST00159,David,Brown,Male,55,Fixed Deposit,57668.82,0.0,Approved,465,Central,Single,Employed,4,2003-10-18
+CUST00160,Laura,Smith,Female,41,Savings,34393.79,26589.0,Approved,737,East,Single,Employed,3,2003-10-27
+CUST00161,Robert,Johnson,Male,20,Current,45947.57,0.0,Pending,783,Central,Divorced,Unemployed,8,2003-11-04
+CUST00162,John,Garcia,Female,28,Fixed Deposit,78777.22,26589.0,Pending,705,South,Divorced,Employed,5,2003-11-13
+CUST00163,John,Garcia,Male,77,Savings,51357.78,0.0,Approved,572,West,Single,Self-Employed,1,2003-11-22
+CUST00164,David,Garcia,Female,44,Savings,41163.26,26589.0,Rejected,619,South,Married,Employed,6,2003-12-01
+CUST00165,Chris,Miller,Female,49,Salary,65678.28,0.0,Approved,712,North,Married,Retired,8,2003-12-09
+CUST00166,David,Brown,Female,47,Savings,47401.25,0.0,Rejected,453,North,Married,Unemployed,7,2003-12-18
+CUST00167,David,Smith,Female,37,Current,78161.27,26589.0,Pending,673,South,Married,Retired,9,2003-12-27
+CUST00168,Laura,Miller,Female,68,Savings,90858.39,0.0,Rejected,674,North,Single,Unemployed,2,2004-01-05
+CUST00169,Laura,Jones,Male,46,Current,92372.25,0.0,Approved,501,West,Single,Self-Employed,6,2004-01-13
+CUST00170,Robert,Jones,Male,67,Savings,72392.8,0.0,Approved,653,West,Single,Self-Employed,5,2004-01-22
+CUST00171,Sarah,Brown,Female,79,Salary,28524.44,26589.0,Approved,366,East,Married,Unemployed,2,2004-01-31
+CUST00172,Michael,Jones,Female,57,Fixed Deposit,2737.91,0.0,Pending,514,South,Single,Self-Employed,2,2004-02-09
+CUST00173,Michael,Brown,Male,62,Current,11049.47,26589.0,Rejected,694,West,Married,Retired,9,2004-02-18
+CUST00174,David,Garcia,Male,66,Current,46844.53,0.0,Approved,401,Central,Married,Employed,1,2004-02-26
+CUST00175,Robert,Miller,Female,28,Savings,11666.46,26589.0,Rejected,462,Central,Single,Self-Employed,9,2004-03-06
+CUST00176,Robert,Brown,Male,55,Current,76583.02,26589.0,Approved,670,Central,Single,Employed,9,2004-03-15
+CUST00177,Laura,Brown,Male,63,Current,26870.3,0.0,Approved,526,West,Divorced,Employed,4,2004-03-24
+CUST00178,John,Martinez,Female,59,Savings,57874.72,0.0,Approved,428,Central,Married,Employed,8,2004-04-01
+CUST00179,Jane,Miller,Male,28,Fixed Deposit,30712.35,26589.0,Pending,797,East,Single,Employed,9,2004-04-10
+CUST00180,Laura,Jones,Male,32,Current,51506.92,0.0,Pending,338,East,Married,Retired,2,2004-04-19
+CUST00181,Anna,Smith,Female,32,Fixed Deposit,57767.03,26589.0,Approved,329,South,Married,Retired,7,2004-04-28
+CUST00182,David,Brown,Non-Binary,60,Current,61287.73,26589.0,Approved,790,North,Married,Employed,9,2004-05-07
+CUST00183,Chris,Garcia,Female,70,Fixed Deposit,19965.35,26589.0,Approved,762,North,Married,Employed,8,2004-05-15
+CUST00184,Laura,Martinez,Male,29,Savings,21921.73,26589.0,Approved,806,East,Single,Employed,5,2004-05-24
+CUST00185,Emily,Davis,Female,59,Current,99688.06,0.0,Approved,804,East,Single,Employed,1,2004-06-02
+CUST00186,Michael,Smith,Non-Binary,39,Savings,2242.24,0.0,Rejected,493,Central,Single,Unemployed,2,2004-06-11
+CUST00187,David,Hernandez,Female,69,Salary,76371.0,0.0,Rejected,779,West,Single,Employed,4,2004-06-19
+CUST00188,Chris,Garcia,Female,47,Savings,70153.88,0.0,Rejected,608,South,Married,Employed,5,2004-06-28
+CUST00189,Laura,Johnson,Male,26,Savings,76544.46,26589.0,Approved,727,West,Married,Employed,1,2004-07-07
+CUST00190,Sarah,Miller,Male,37,Salary,54901.69,0.0,Pending,350,South,Married,Self-Employed,9,2004-07-16
+CUST00191,Laura,Smith,Female,25,Salary,71239.6,0.0,Approved,676,South,Single,Unemployed,9,2004-07-25
+CUST00192,Robert,Smith,Female,47,Current,82459.04,0.0,Approved,645,North,Married,Employed,6,2004-08-02
+CUST00193,Michael,Miller,Female,60,Current,3554.27,0.0,Pending,474,East,Single,Employed,9,2004-08-11
+CUST00194,Laura,Davis,Female,41,Savings,7000.56,0.0,Approved,815,East,Married,Employed,1,2004-08-20
+CUST00195,Emily,Garcia,Male,37,Savings,90570.81,0.0,Pending,564,North,Single,Employed,5,2004-08-29
+CUST00196,Michael,Davis,Female,49,Current,12211.95,0.0,Approved,829,Central,Married,Employed,3,2004-09-06
+CUST00197,Sarah,Garcia,Female,79,Current,43490.05,0.0,Pending,471,East,Married,Self-Employed,4,2004-09-15
+CUST00198,Chris,Johnson,Male,19,Savings,92421.1,26589.0,Pending,505,South,Married,Employed,4,2004-09-24
+CUST00199,John,Smith,Non-Binary,58,Savings,51326.53,0.0,Rejected,816,Central,Married,Retired,3,2004-10-03
+CUST00200,Robert,Hernandez,Male,59,Savings,4943.69,0.0,Rejected,358,West,Married,Self-Employed,6,2004-10-11
+CUST00201,Laura,Johnson,Female,47,Fixed Deposit,60666.46,0.0,Approved,306,West,Married,Unemployed,8,2004-10-20
+CUST00202,Emily,Williams,Male,62,Current,1329.92,0.0,Approved,607,South,Married,Employed,3,2004-10-29
+CUST00203,Robert,Miller,Male,72,Fixed Deposit,7828.19,0.0,Approved,816,South,Married,Employed,4,2004-11-07
+CUST00204,Anna,Brown,Female,30,Fixed Deposit,51402.6,26589.0,Approved,738,West,Single,Employed,1,2004-11-16
+CUST00205,Jane,Miller,Female,28,Savings,25282.51,0.0,Rejected,542,West,Married,Unemployed,5,2004-11-24
+CUST00206,Sarah,Garcia,Male,53,Savings,52753.42,0.0,Pending,308,West,Single,Retired,6,2004-12-03
+CUST00207,David,Miller,Male,42,Fixed Deposit,94561.88,0.0,Pending,733,East,Married,Unemployed,9,2004-12-12
+CUST00208,John,Davis,Male,42,Savings,32399.57,0.0,Approved,811,North,Single,Employed,9,2004-12-21
+CUST00209,Jane,Davis,Male,21,Savings,72048.81,0.0,Approved,395,West,Married,Self-Employed,5,2004-12-29
+CUST00210,Emily,Miller,Female,63,Current,76399.88,0.0,Approved,534,Central,Single,Employed,5,2005-01-07
+CUST00211,John,Jones,Female,68,Savings,6690.87,26589.0,Pending,597,Central,Single,Self-Employed,3,2005-01-16
+CUST00212,Sarah,Davis,Female,31,Fixed Deposit,45271.18,26589.0,Rejected,764,North,Single,Employed,6,2005-01-25
+CUST00213,John,Brown,Male,66,Savings,38471.56,0.0,Approved,705,South,Single,Retired,8,2005-02-03
+CUST00214,Michael,Hernandez,Male,31,Current,88357.36,0.0,Approved,619,East,Single,Employed,8,2005-02-11
+CUST00215,Anna,Jones,Female,47,Current,96057.74,26589.0,Approved,646,East,Single,Retired,5,2005-02-20
+CUST00216,Jane,Hernandez,Female,76,Current,55228.99,26589.0,Approved,616,South,Single,Self-Employed,5,2005-03-01
+CUST00217,Robert,Garcia,Female,59,Salary,83110.71,26589.0,Approved,667,North,Single,Unemployed,9,2005-03-10
+CUST00218,Michael,Brown,Non-Binary,39,Current,33516.07,0.0,Pending,304,Central,Married,Employed,5,2005-03-18
+CUST00219,Emily,Garcia,Female,35,Savings,81774.69,0.0,Approved,802,South,Widowed,Employed,1,2005-03-27
+CUST00220,Sarah,Davis,Male,45,Fixed Deposit,58339.16,26589.0,Approved,671,South,Single,Retired,7,2005-04-05
+CUST00221,Robert,Garcia,Female,55,Fixed Deposit,38450.33,0.0,Pending,702,East,Married,Employed,3,2005-04-14
+CUST00222,Sarah,Garcia,Male,45,Savings,68986.04,0.0,Pending,815,West,Single,Employed,7,2005-04-23
+CUST00223,Robert,Brown,Male,55,Savings,36657.65,0.0,Pending,454,East,Married,Unemployed,7,2005-05-01
+CUST00224,Emily,Davis,Non-Binary,56,Savings,39573.16,0.0,Approved,757,West,Married,Self-Employed,7,2005-05-10
+CUST00225,Chris,Jones,Female,68,Fixed Deposit,18090.72,0.0,Approved,572,South,Widowed,Self-Employed,6,2005-05-19
+CUST00226,Robert,Garcia,Male,39,Savings,73911.24,0.0,Rejected,559,South,Married,Employed,4,2005-05-28
+CUST00227,Jane,Martinez,Female,44,Current,76673.09,0.0,Approved,613,South,Married,Employed,3,2005-06-05
+CUST00228,Michael,Williams,Female,66,Savings,30213.26,0.0,Pending,321,Central,Single,Employed,9,2005-06-14
+CUST00229,Anna,Brown,Female,66,Salary,71654.68,0.0,Approved,698,East,Single,Self-Employed,2,2005-06-23
+CUST00230,Emily,Johnson,Female,47,Savings,33540.49,0.0,Approved,802,Central,Single,Employed,5,2005-07-02
+CUST00231,Chris,Hernandez,Male,49,Current,54597.07,0.0,Rejected,823,South,Single,Employed,8,2005-07-10
+CUST00232,Emily,Smith,Female,60,Savings,50577.17,26589.0,Pending,709,Central,Single,Employed,1,2005-07-19
+CUST00233,Jane,Jones,Female,63,Savings,33440.76,0.0,Approved,668,West,Single,Employed,5,2005-07-28
+CUST00234,Sarah,Jones,Female,29,Savings,22178.53,0.0,Approved,704,North,Married,Employed,4,2005-08-06
+CUST00235,Sarah,Jones,Male,76,Salary,55526.96,0.0,Rejected,476,South,Divorced,Employed,9,2005-08-15
+CUST00236,Michael,Johnson,Male,75,Savings,3957.21,26589.0,Pending,582,East,Married,Self-Employed,5,2005-08-23
+CUST00237,Laura,Martinez,Female,69,Current,10969.32,0.0,Approved,338,West,Married,Unemployed,7,2005-09-01
+CUST00238,David,Hernandez,Male,27,Fixed Deposit,33336.47,26589.0,Approved,320,South,Single,Employed,6,2005-09-10
+CUST00239,Robert,Jones,Male,52,Savings,55114.7,26589.0,Rejected,539,East,Single,Self-Employed,1,2005-09-19
+CUST00240,John,Miller,Female,50,Fixed Deposit,80208.72,0.0,Approved,354,Central,Single,Employed,4,2005-09-27
+CUST00241,Chris,Martinez,Male,70,Savings,78022.76,26589.0,Approved,495,North,Single,Employed,2,2005-10-06
+CUST00242,Jane,Smith,Male,73,Fixed Deposit,57490.87,0.0,Pending,311,North,Single,Self-Employed,4,2005-10-15
+CUST00243,Anna,Smith,Female,72,Fixed Deposit,18438.82,0.0,Pending,540,Central,Single,Unemployed,5,2005-10-24
+CUST00244,David,Brown,Male,19,Savings,23432.89,26589.0,Approved,740,North,Single,Employed,7,2005-11-02
+CUST00245,Chris,Hernandez,Female,36,Savings,4179.72,0.0,Pending,449,West,Single,Self-Employed,7,2005-11-10
+CUST00246,John,Hernandez,Male,51,Current,94733.25,26589.0,Approved,479,West,Divorced,Unemployed,4,2005-11-19
+CUST00247,John,Miller,Female,74,Fixed Deposit,6594.56,0.0,Rejected,470,West,Single,Self-Employed,6,2005-11-28
+CUST00248,David,Smith,Male,39,Current,5117.14,26589.0,Pending,373,South,Single,Unemployed,7,2005-12-07
+CUST00249,David,Miller,Male,67,Savings,55051.64,0.0,Approved,491,South,Single,Self-Employed,3,2005-12-15
+CUST00250,Laura,Johnson,Male,46,Savings,10832.59,0.0,Pending,445,South,Married,Employed,3,2005-12-24
+CUST00251,Anna,Martinez,Male,58,Fixed Deposit,67647.16,0.0,Pending,663,North,Divorced,Employed,3,2006-01-02
+CUST00252,Anna,Hernandez,Male,18,Fixed Deposit,67655.17,26589.0,Rejected,341,North,Married,Employed,8,2006-01-11
+CUST00253,Emily,Hernandez,Male,33,Savings,70570.54,0.0,Approved,477,Central,Married,Retired,7,2006-01-19
+CUST00254,John,Garcia,Female,76,Salary,79111.75,0.0,Approved,301,West,Married,Employed,2,2006-01-28
+CUST00255,Robert,Miller,Female,35,Fixed Deposit,13023.44,26589.0,Pending,682,North,Single,Self-Employed,9,2006-02-06
+CUST00256,Anna,Miller,Male,39,Savings,15956.95,0.0,Approved,606,Central,Married,Unemployed,1,2006-02-15
+CUST00257,Emily,Jones,Male,28,Savings,42023.35,0.0,Approved,454,Central,Single,Employed,5,2006-02-24
+CUST00258,Emily,Jones,Male,56,Fixed Deposit,89452.1,0.0,Rejected,450,East,Single,Retired,4,2006-03-04
+CUST00259,Sarah,Smith,Male,53,Fixed Deposit,5726.76,26589.0,Rejected,647,East,Divorced,Employed,8,2006-03-13
+CUST00260,Michael,Jones,Female,58,Current,698.72,0.0,Pending,517,East,Married,Unemployed,4,2006-03-22
+CUST00261,Jane,Johnson,Male,54,Current,24194.85,0.0,Approved,581,West,Single,Employed,5,2006-03-31
+CUST00262,Michael,Williams,Female,63,Fixed Deposit,87184.45,26589.0,Approved,607,North,Married,Unemployed,9,2006-04-08
+CUST00263,Chris,Martinez,Male,39,Savings,30653.5,0.0,Approved,789,South,Single,Employed,5,2006-04-17
+CUST00264,Emily,Garcia,Female,41,Savings,22856.57,0.0,Pending,395,North,Single,Self-Employed,2,2006-04-26
+CUST00265,Anna,Jones,Female,53,Current,74627.91,0.0,Pending,555,North,Married,Unemployed,8,2006-05-05
+CUST00266,Chris,Martinez,Female,37,Current,78112.12,0.0,Pending,797,Central,Single,Retired,4,2006-05-14
+CUST00267,Robert,Johnson,Male,72,Current,68963.69,0.0,Rejected,842,Central,Married,Employed,8,2006-05-22
+CUST00268,Robert,Smith,Male,19,Current,22527.98,26589.0,Approved,644,North,Single,Employed,9,2006-05-31
+CUST00269,David,Brown,Male,51,Savings,43911.05,0.0,Pending,328,Central,Married,Unemployed,7,2006-06-09
+CUST00270,Robert,Miller,Female,40,Current,48498.35,0.0,Approved,588,Central,Single,Employed,5,2006-06-18
+CUST00271,Chris,Williams,Female,69,Savings,56036.99,26589.0,Approved,573,East,Single,Unemployed,3,2006-06-26
+CUST00272,Jane,Miller,Male,49,Savings,44604.57,26589.0,Approved,623,South,Married,Employed,3,2006-07-05
+CUST00273,Jane,Jones,Female,41,Current,30808.33,0.0,Pending,768,North,Single,Retired,2,2006-07-14
+CUST00274,Laura,Miller,Female,39,Savings,5715.2,26589.0,Pending,417,North,Single,Employed,1,2006-07-23
+CUST00275,Chris,Williams,Female,39,Fixed Deposit,65458.69,0.0,Approved,442,North,Married,Self-Employed,6,2006-08-01
+CUST00276,Emily,Garcia,Female,19,Fixed Deposit,53934.11,26589.0,Rejected,314,East,Married,Employed,2,2006-08-09
+CUST00277,Michael,Johnson,Female,39,Savings,64182.79,0.0,Rejected,526,South,Married,Employed,3,2006-08-18
+CUST00278,Michael,Hernandez,Male,38,Fixed Deposit,73586.37,0.0,Rejected,847,East,Married,Unemployed,6,2006-08-27
+CUST00279,Michael,Martinez,Female,69,Current,94908.89,26589.0,Rejected,826,South,Divorced,Employed,8,2006-09-05
+CUST00280,Anna,Martinez,Female,35,Current,53247.88,26589.0,Approved,667,West,Single,Employed,9,2006-09-13
+CUST00281,David,Brown,Female,43,Current,3969.61,0.0,Pending,664,North,Single,Retired,6,2006-09-22
+CUST00282,Jane,Smith,Male,29,Savings,71268.94,26589.0,Pending,592,Central,Single,Unemployed,9,2006-10-01
+CUST00283,Emily,Smith,Male,58,Current,82183.55,0.0,Rejected,746,West,Married,Employed,5,2006-10-10
+CUST00284,John,Martinez,Female,37,Savings,19453.79,0.0,Approved,445,East,Married,Unemployed,7,2006-10-18
+CUST00285,John,Williams,Male,38,Savings,10955.5,26589.0,Pending,372,North,Married,Unemployed,5,2006-10-27
+CUST00286,Emily,Johnson,Female,31,Savings,66589.96,26589.0,Pending,414,East,Married,Employed,2,2006-11-05
+CUST00287,Jane,Brown,Female,56,Fixed Deposit,35205.66,0.0,Pending,574,West,Single,Employed,9,2006-11-14
+CUST00288,Sarah,Johnson,Male,51,Fixed Deposit,6619.74,0.0,Approved,635,North,Single,Unemployed,1,2006-11-23
+CUST00289,David,Johnson,Female,28,Savings,95076.31,26589.0,Approved,345,East,Married,Employed,8,2006-12-01
+CUST00290,Michael,Garcia,Non-Binary,65,Savings,16345.6,26589.0,Rejected,439,Central,Divorced,Unemployed,4,2006-12-10
+CUST00291,John,Hernandez,Male,28,Savings,31879.94,0.0,Pending,501,North,Single,Employed,8,2006-12-19
+CUST00292,Chris,Smith,Female,38,Current,1160.64,0.0,Approved,340,South,Single,Employed,6,2006-12-28
+CUST00293,Laura,Garcia,Male,64,Current,66084.65,26589.0,Pending,753,South,Single,Employed,4,2007-01-05
+CUST00294,Chris,Brown,Female,21,Savings,61531.03,26589.0,Pending,736,South,Married,Self-Employed,3,2007-01-14
+CUST00295,John,Smith,Female,56,Savings,17482.32,0.0,Pending,627,East,Single,Employed,4,2007-01-23
+CUST00296,John,Hernandez,Male,57,Savings,98041.04,0.0,Rejected,368,North,Single,Employed,9,2007-02-01
+CUST00297,Laura,Williams,Female,53,Fixed Deposit,26125.82,26589.0,Pending,660,West,Married,Employed,1,2007-02-10
+CUST00298,Laura,Martinez,Male,21,Fixed Deposit,52165.41,0.0,Approved,763,South,Divorced,Unemployed,2,2007-02-18
+CUST00299,Michael,Hernandez,Male,29,Current,42217.06,0.0,Rejected,321,South,Single,Unemployed,1,2007-02-27
+CUST00300,Sarah,Garcia,Female,47,Fixed Deposit,19725.18,26589.0,Pending,434,Central,Divorced,Unemployed,8,2007-03-08
+CUST00301,Robert,Smith,Male,79,Fixed Deposit,41826.23,26589.0,Pending,505,South,Single,Employed,8,2007-03-17
+CUST00302,David,Brown,Male,23,Current,66036.73,26589.0,Pending,360,East,Married,Employed,9,2007-03-25
+CUST00303,Michael,Davis,Male,40,Savings,5900.58,0.0,Pending,478,East,Married,Unemployed,4,2007-04-03
+CUST00304,Anna,Jones,Male,23,Savings,80492.28,26589.0,Pending,797,North,Single,Unemployed,2,2007-04-12
+CUST00305,Chris,Hernandez,Female,41,Fixed Deposit,4994.86,0.0,Rejected,520,East,Widowed,Self-Employed,8,2007-04-21
+CUST00306,Robert,Smith,Male,78,Savings,63536.06,26589.0,Rejected,436,South,Single,Self-Employed,6,2007-04-30
+CUST00307,Chris,Jones,Male,19,Current,49122.48,0.0,Pending,363,North,Divorced,Self-Employed,7,2007-05-08
+CUST00308,John,Brown,Female,41,Fixed Deposit,7998.21,26589.0,Approved,808,South,Single,Employed,4,2007-05-17
+CUST00309,David,Hernandez,Female,64,Savings,36256.39,26589.0,Rejected,651,West,Married,Retired,8,2007-05-26
+CUST00310,Emily,Miller,Male,20,Fixed Deposit,43799.62,26589.0,Rejected,664,North,Single,Employed,2,2007-06-04
+CUST00311,Robert,Hernandez,Female,36,Savings,16503.73,26589.0,Pending,801,South,Divorced,Self-Employed,8,2007-06-12
+CUST00312,Sarah,Brown,Female,24,Current,24050.58,0.0,Approved,548,West,Married,Retired,2,2007-06-21
+CUST00313,Jane,Smith,Male,36,Savings,20175.42,0.0,Pending,757,East,Single,Employed,3,2007-06-30
+CUST00314,Emily,Johnson,Male,74,Savings,99062.78,0.0,Approved,748,North,Single,Employed,7,2007-07-09
+CUST00315,Laura,Martinez,Female,32,Current,48609.95,26589.0,Pending,357,East,Married,Unemployed,8,2007-07-17
+CUST00316,Robert,Davis,Female,67,Savings,90755.57,0.0,Pending,520,Central,Married,Employed,7,2007-07-26
+CUST00317,Jane,Williams,Male,56,Current,82412.75,0.0,Approved,724,Central,Single,Unemployed,9,2007-08-04
+CUST00318,Anna,Smith,Female,57,Current,45677.13,26589.0,Approved,374,South,Single,Unemployed,6,2007-08-13
+CUST00319,Jane,Brown,Male,59,Savings,17576.33,0.0,Rejected,612,North,Single,Employed,5,2007-08-22
+CUST00320,Sarah,Garcia,Female,72,Savings,1504.47,0.0,Rejected,396,East,Married,Retired,2,2007-08-30
+CUST00321,Chris,Johnson,Female,31,Current,43255.86,0.0,Rejected,476,Central,Married,Employed,5,2007-09-08
+CUST00322,Emily,Davis,Male,52,Current,85182.05,26589.0,Approved,428,North,Single,Self-Employed,2,2007-09-17
+CUST00323,Robert,Miller,Female,48,Fixed Deposit,30944.77,0.0,Pending,456,South,Single,Self-Employed,6,2007-09-26
+CUST00324,Michael,Martinez,Male,65,Fixed Deposit,21265.75,0.0,Approved,505,East,Single,Self-Employed,1,2007-10-04
+CUST00325,Anna,Davis,Male,26,Current,88908.31,0.0,Approved,362,West,Single,Self-Employed,2,2007-10-13
+CUST00326,Emily,Jones,Female,32,Fixed Deposit,20411.51,0.0,Approved,450,North,Single,Employed,3,2007-10-22
+CUST00327,Laura,Hernandez,Male,76,Current,8726.52,0.0,Pending,551,Central,Single,Retired,1,2007-10-31
+CUST00328,Jane,Smith,Male,79,Current,34921.96,0.0,Pending,845,Central,Single,Self-Employed,2,2007-11-09
+CUST00329,Emily,Jones,Female,73,Savings,71047.32,0.0,Approved,400,Central,Single,Employed,3,2007-11-17
+CUST00330,Michael,Martinez,Female,78,Savings,31787.3,26589.0,Pending,807,South,Married,Employed,5,2007-11-26
+CUST00331,Anna,Miller,Female,36,Fixed Deposit,11137.19,26589.0,Pending,836,South,Single,Employed,8,2007-12-05
+CUST00332,John,Garcia,Male,70,Current,61700.0,26589.0,Approved,625,West,Single,Employed,4,2007-12-14
+CUST00333,David,Brown,Female,24,Fixed Deposit,16797.14,26589.0,Pending,509,East,Single,Employed,3,2007-12-22
+CUST00334,Sarah,Hernandez,Male,77,Fixed Deposit,96061.91,0.0,Approved,444,West,Single,Retired,7,2007-12-31
+CUST00335,Jane,Davis,Male,50,Fixed Deposit,54309.36,26589.0,Pending,674,Central,Single,Retired,8,2008-01-09
+CUST00336,Sarah,Miller,Female,75,Fixed Deposit,6577.21,26589.0,Pending,587,West,Single,Employed,8,2008-01-18
+CUST00337,Emily,Davis,Female,57,Savings,80174.34,0.0,Pending,623,North,Single,Self-Employed,8,2008-01-26
+CUST00338,Emily,Davis,Male,49,Fixed Deposit,3247.04,0.0,Pending,340,East,Divorced,Self-Employed,7,2008-02-04
+CUST00339,Emily,Brown,Female,39,Current,43328.98,0.0,Approved,827,South,Married,Unemployed,4,2008-02-13
+CUST00340,Emily,Johnson,Female,75,Current,68368.75,26589.0,Pending,785,North,Married,Employed,2,2008-02-22
+CUST00341,Emily,Hernandez,Male,38,Savings,44152.15,0.0,Pending,560,Central,Single,Unemployed,8,2008-03-02
+CUST00342,John,Davis,Female,40,Salary,36163.71,0.0,Approved,567,North,Married,Employed,1,2008-03-10
+CUST00343,John,Brown,Female,53,Current,56666.54,0.0,Pending,781,Central,Single,Employed,6,2008-03-19
+CUST00344,John,Miller,Male,57,Savings,76153.27,0.0,Pending,594,North,Divorced,Retired,9,2008-03-28
+CUST00345,Anna,Martinez,Male,31,Fixed Deposit,50393.41,0.0,Approved,440,East,Married,Employed,6,2008-04-06
+CUST00346,Chris,Garcia,Female,26,Savings,85245.58,26589.0,Pending,540,East,Married,Employed,8,2008-04-14
+CUST00347,Sarah,Brown,Female,36,Fixed Deposit,89686.49,26589.0,Approved,368,South,Single,Employed,3,2008-04-23
+CUST00348,Chris,Davis,Male,63,Salary,66517.68,26589.0,Rejected,531,East,Married,Employed,1,2008-05-02
+CUST00349,Chris,Miller,Female,78,Savings,552.0,0.0,Pending,541,West,Single,Unemployed,5,2008-05-11
+CUST00350,Chris,Williams,Male,60,Savings,24538.08,26589.0,Approved,304,East,Married,Self-Employed,2,2008-05-20
+CUST00351,David,Hernandez,Female,68,Salary,61592.06,0.0,Approved,615,Central,Married,Employed,5,2008-05-28
+CUST00352,Anna,Brown,Male,28,Savings,68996.03,26589.0,Rejected,571,Central,Married,Employed,7,2008-06-06
+CUST00353,Anna,Smith,Female,78,Savings,92425.32,26589.0,Approved,422,North,Married,Retired,3,2008-06-15
+CUST00354,Sarah,Jones,Male,35,Fixed Deposit,92778.71,0.0,Pending,804,South,Single,Retired,3,2008-06-24
+CUST00355,David,Smith,Female,79,Current,72161.1,26589.0,Pending,704,East,Married,Employed,3,2008-07-02
+CUST00356,Jane,Smith,Female,49,Savings,78168.18,0.0,Pending,492,South,Single,Self-Employed,1,2008-07-11
+CUST00357,Chris,Davis,Female,56,Fixed Deposit,92217.22,0.0,Approved,489,North,Married,Employed,8,2008-07-20
+CUST00358,Chris,Garcia,Male,73,Salary,88432.35,0.0,Approved,439,West,Single,Unemployed,1,2008-07-29
+CUST00359,Jane,Jones,Non-Binary,25,Fixed Deposit,73544.77,0.0,Rejected,472,North,Married,Employed,8,2008-08-07
+CUST00360,Anna,Jones,Male,25,Salary,67101.06,0.0,Approved,685,West,Single,Self-Employed,9,2008-08-15
+CUST00361,Emily,Jones,Female,61,Current,97912.86,26589.0,Rejected,320,East,Married,Employed,6,2008-08-24
+CUST00362,Laura,Brown,Female,18,Fixed Deposit,63316.97,0.0,Pending,835,North,Single,Employed,2,2008-09-02
+CUST00363,Jane,Williams,Female,25,Savings,33338.25,0.0,Pending,302,Central,Single,Employed,6,2008-09-11
+CUST00364,Robert,Williams,Male,40,Current,42636.97,0.0,Pending,401,Central,Single,Employed,5,2008-09-19
+CUST00365,Robert,Garcia,Male,35,Savings,43136.78,0.0,Approved,787,Central,Married,Unemployed,4,2008-09-28
+CUST00366,Michael,Hernandez,Female,57,Savings,66611.02,0.0,Approved,418,South,Married,Employed,7,2008-10-07
+CUST00367,Sarah,Smith,Female,31,Current,58587.05,0.0,Approved,572,Central,Single,Retired,7,2008-10-16
+CUST00368,Robert,Miller,Male,34,Current,43248.34,0.0,Pending,369,North,Single,Self-Employed,1,2008-10-24
+CUST00369,Laura,Hernandez,Male,42,Current,62978.85,0.0,Pending,658,South,Married,Unemployed,8,2008-11-02
+CUST00370,David,Hernandez,Female,45,Current,52904.46,0.0,Pending,623,East,Widowed,Self-Employed,1,2008-11-11
+CUST00371,Anna,Brown,Female,22,Savings,74437.65,0.0,Pending,774,East,Single,Self-Employed,6,2008-11-20
+CUST00372,Anna,Williams,Female,30,Current,16100.36,0.0,Rejected,596,East,Divorced,Employed,2,2008-11-29
+CUST00373,Jane,Hernandez,Female,76,Savings,47271.97,0.0,Pending,373,North,Single,Employed,5,2008-12-07
+CUST00374,Jane,Jones,Female,29,Current,74297.02,0.0,Approved,730,West,Single,Employed,5,2008-12-16
+CUST00375,Laura,Martinez,Female,47,Fixed Deposit,84905.7,0.0,Approved,389,West,Married,Unemployed,2,2008-12-25
+CUST00376,John,Williams,Male,62,Savings,54709.41,26589.0,Rejected,693,East,Married,Employed,6,2009-01-03
+CUST00377,Emily,Hernandez,Female,29,Savings,63999.41,26589.0,Approved,531,West,Divorced,Unemployed,6,2009-01-11
+CUST00378,David,Miller,Female,23,Current,93600.04,0.0,Pending,440,South,Single,Employed,6,2009-01-20
+CUST00379,Chris,Miller,Male,70,Salary,28521.1,0.0,Pending,781,North,Married,Employed,2,2009-01-29
+CUST00380,Michael,Garcia,Female,57,Savings,95649.43,0.0,Rejected,539,Central,Single,Employed,5,2009-02-07
+CUST00381,Jane,Johnson,Female,21,Savings,274.78,26589.0,Pending,425,West,Married,Employed,5,2009-02-16
+CUST00382,David,Hernandez,Female,48,Salary,10220.06,26589.0,Approved,770,East,Single,Employed,5,2009-02-24
+CUST00383,Emily,Davis,Male,67,Current,88699.14,0.0,Rejected,400,Central,Married,Employed,3,2009-03-05
+CUST00384,Robert,Hernandez,Male,54,Current,69885.02,26589.0,Approved,668,West,Single,Employed,8,2009-03-14
+CUST00385,John,Hernandez,Female,30,Current,12433.81,26589.0,Pending,526,North,Married,Unemployed,9,2009-03-23
+CUST00386,Michael,Martinez,Female,58,Savings,83327.1,0.0,Approved,590,East,Married,Unemployed,1,2009-03-31
+CUST00387,David,Jones,Female,59,Current,39514.86,0.0,Rejected,472,Central,Married,Employed,7,2009-04-09
+CUST00388,Sarah,Martinez,Female,64,Fixed Deposit,9901.73,0.0,Approved,578,East,Single,Employed,9,2009-04-18
+CUST00389,David,Jones,Female,68,Current,97359.46,0.0,Pending,695,South,Single,Self-Employed,7,2009-04-27
+CUST00390,John,Williams,Female,58,Current,33535.27,0.0,Approved,451,East,Single,Employed,1,2009-05-05
+CUST00391,Michael,Johnson,Female,20,Current,28940.99,26589.0,Approved,842,East,Single,Employed,8,2009-05-14
+CUST00392,Emily,Miller,Male,34,Savings,7278.05,0.0,Approved,326,South,Married,Retired,9,2009-05-23
+CUST00393,Sarah,Williams,Female,65,Savings,68753.07,26589.0,Approved,672,West,Married,Unemployed,5,2009-06-01
+CUST00394,David,Garcia,Female,50,Savings,89702.52,0.0,Pending,328,West,Married,Unemployed,9,2009-06-10
+CUST00395,Sarah,Miller,Male,47,Current,22887.37,0.0,Rejected,366,North,Divorced,Employed,3,2009-06-18
+CUST00396,Anna,Miller,Male,74,Savings,5239.16,0.0,Approved,560,North,Married,Employed,3,2009-06-27
+CUST00397,Emily,Garcia,Female,59,Savings,13865.9,26589.0,Rejected,833,South,Married,Self-Employed,9,2009-07-06
+CUST00398,Emily,Williams,Female,61,Fixed Deposit,31840.02,26589.0,Pending,696,East,Married,Unemployed,3,2009-07-15
+CUST00399,Laura,Garcia,Female,30,Savings,87193.04,0.0,Pending,762,South,Married,Employed,2,2009-07-23
+CUST00400,Robert,Jones,Female,21,Savings,19244.9,0.0,Approved,523,North,Single,Employed,6,2009-08-01
+CUST00401,Anna,Williams,Female,64,Current,67696.92,0.0,Approved,831,South,Single,Self-Employed,2,2009-08-10
+CUST00402,Michael,Jones,Male,26,Savings,25670.88,0.0,Approved,676,East,Single,Self-Employed,5,2009-08-19
+CUST00403,Laura,Garcia,Male,49,Savings,15038.45,0.0,Approved,693,Central,Married,Employed,5,2009-08-28
+CUST00404,Anna,Williams,Female,57,Current,90299.5,26589.0,Approved,776,North,Single,Unemployed,4,2009-09-05
+CUST00405,Sarah,Davis,Non-Binary,50,Fixed Deposit,72736.01,26589.0,Approved,375,East,Married,Employed,6,2009-09-14
+CUST00406,Jane,Brown,Male,76,Current,18905.91,26589.0,Rejected,784,East,Single,Employed,1,2009-09-23
+CUST00407,Michael,Hernandez,Male,39,Savings,5728.28,0.0,Rejected,605,Central,Single,Employed,8,2009-10-02
+CUST00408,Chris,Johnson,Male,52,Savings,54928.52,0.0,Approved,555,East,Single,Employed,4,2009-10-10
+CUST00409,Michael,Davis,Female,52,Current,65344.84,0.0,Approved,419,East,Divorced,Employed,7,2009-10-19
+CUST00410,Sarah,Jones,Male,26,Savings,52444.67,26589.0,Approved,841,West,Married,Self-Employed,7,2009-10-28
+CUST00411,Emily,Miller,Female,40,Current,6300.91,26589.0,Approved,367,West,Married,Unemployed,7,2009-11-06
+CUST00412,David,Miller,Male,36,Savings,23026.03,0.0,Pending,425,West,Single,Self-Employed,4,2009-11-15
+CUST00413,Laura,Hernandez,Male,23,Savings,16327.39,0.0,Pending,334,West,Single,Employed,4,2009-11-23
+CUST00414,Michael,Williams,Male,76,Current,65230.85,0.0,Approved,550,South,Single,Self-Employed,1,2009-12-02
+CUST00415,Laura,Davis,Female,62,Current,26930.03,26589.0,Pending,707,South,Single,Employed,6,2009-12-11
+CUST00416,Sarah,Martinez,Male,42,Current,17939.3,0.0,Approved,401,North,Single,Self-Employed,9,2009-12-20
+CUST00417,Robert,Brown,Female,35,Savings,59955.94,0.0,Approved,339,Central,Single,Employed,6,2009-12-28
+CUST00418,John,Williams,Male,69,Current,18748.68,26589.0,Rejected,562,South,Single,Employed,9,2010-01-06
+CUST00419,David,Miller,Female,27,Current,42794.53,26589.0,Approved,721,South,Widowed,Self-Employed,1,2010-01-15
+CUST00420,Laura,Jones,Female,63,Current,79893.71,26589.0,Rejected,359,Central,Single,Employed,6,2010-01-24
+CUST00421,Chris,Smith,Male,43,Salary,19659.42,0.0,Pending,318,Central,Single,Unemployed,9,2010-02-01
+CUST00422,Chris,Hernandez,Male,58,Current,84246.78,0.0,Approved,342,North,Married,Employed,7,2010-02-10
+CUST00423,Emily,Martinez,Female,39,Savings,52575.54,0.0,Approved,789,East,Married,Employed,9,2010-02-19
+CUST00424,Emily,Jones,Non-Binary,71,Current,32266.6,26589.0,Pending,555,West,Single,Retired,4,2010-02-28
+CUST00425,Jane,Jones,Female,74,Savings,24366.11,0.0,Approved,317,North,Married,Employed,3,2010-03-09
+CUST00426,Chris,Garcia,Female,27,Savings,26883.56,26589.0,Rejected,743,South,Single,Employed,4,2010-03-17
+CUST00427,Robert,Williams,Female,23,Savings,15888.14,26589.0,Approved,613,North,Single,Retired,8,2010-03-26
+CUST00428,Robert,Davis,Female,58,Savings,71181.75,0.0,Approved,638,North,Married,Self-Employed,1,2010-04-04
+CUST00429,Laura,Davis,Female,45,Savings,13603.39,0.0,Approved,571,North,Single,Employed,1,2010-04-13
+CUST00430,Laura,Hernandez,Male,38,Current,58411.78,0.0,Pending,626,West,Single,Employed,1,2010-04-21
+CUST00431,Emily,Martinez,Male,63,Fixed Deposit,88040.74,0.0,Approved,381,East,Married,Employed,3,2010-04-30
+CUST00432,Emily,Williams,Female,26,Current,80605.47,0.0,Pending,541,East,Single,Unemployed,4,2010-05-09
+CUST00433,David,Brown,Male,44,Current,30626.74,26589.0,Approved,324,North,Married,Retired,6,2010-05-18
+CUST00434,Anna,Jones,Male,46,Current,68274.9,26589.0,Approved,803,South,Married,Employed,4,2010-05-27
+CUST00435,Robert,Smith,Male,64,Fixed Deposit,90790.82,0.0,Approved,365,West,Single,Unemployed,2,2010-06-04
+CUST00436,David,Davis,Male,70,Current,90110.4,0.0,Approved,366,East,Married,Unemployed,6,2010-06-13
+CUST00437,Jane,Hernandez,Male,32,Current,83123.29,26589.0,Approved,796,South,Single,Employed,7,2010-06-22
+CUST00438,David,Martinez,Male,55,Savings,24634.61,26589.0,Rejected,439,North,Married,Employed,5,2010-07-01
+CUST00439,Robert,Martinez,Female,47,Fixed Deposit,46018.14,0.0,Approved,590,South,Single,Employed,5,2010-07-09
+CUST00440,Sarah,Hernandez,Female,45,Fixed Deposit,19813.16,0.0,Approved,654,West,Single,Employed,1,2010-07-18
+CUST00441,Jane,Jones,Female,75,Savings,67315.72,0.0,Approved,623,North,Single,Self-Employed,9,2010-07-27
+CUST00442,Anna,Smith,Male,25,Fixed Deposit,46618.96,0.0,Pending,553,North,Married,Self-Employed,1,2010-08-05
+CUST00443,Jane,Miller,Male,78,Current,1491.11,0.0,Approved,369,South,Single,Self-Employed,2,2010-08-14
+CUST00444,Robert,Johnson,Female,45,Current,25211.58,0.0,Pending,671,South,Single,Retired,7,2010-08-22
+CUST00445,Emily,Davis,Male,45,Fixed Deposit,25014.47,26589.0,Approved,801,South,Married,Employed,6,2010-08-31
+CUST00446,John,Smith,Male,24,Fixed Deposit,99853.48,0.0,Approved,396,Central,Single,Unemployed,7,2010-09-09
+CUST00447,Chris,Miller,Male,67,Savings,21900.47,26589.0,Approved,695,West,Single,Self-Employed,3,2010-09-18
+CUST00448,Anna,Williams,Male,33,Savings,3771.06,0.0,Pending,335,East,Single,Employed,3,2010-09-26
+CUST00449,Robert,Jones,Male,20,Savings,25897.65,26589.0,Approved,819,North,Single,Self-Employed,9,2010-10-05
+CUST00450,Laura,Davis,Male,63,Fixed Deposit,82759.25,26589.0,Pending,805,Central,Single,Unemployed,4,2010-10-14
+CUST00451,David,Miller,Female,74,Current,57384.45,0.0,Rejected,367,Central,Married,Employed,1,2010-10-23
+CUST00452,Anna,Martinez,Male,37,Fixed Deposit,34002.49,0.0,Approved,615,Central,Single,Employed,3,2010-10-31
+CUST00453,David,Jones,Male,31,Savings,60618.12,0.0,Approved,326,North,Single,Retired,9,2010-11-09
+CUST00454,John,Hernandez,Female,26,Current,3718.58,0.0,Approved,838,West,Married,Employed,1,2010-11-18
+CUST00455,Emily,Williams,Female,64,Savings,16798.6,0.0,Pending,650,North,Married,Employed,8,2010-11-27
+CUST00456,Robert,Smith,Female,25,Savings,51998.45,26589.0,Approved,472,North,Single,Employed,6,2010-12-06
+CUST00457,Anna,Miller,Female,44,Savings,59019.52,0.0,Pending,665,East,Married,Employed,8,2010-12-14
+CUST00458,Michael,Brown,Female,43,Fixed Deposit,79971.67,0.0,Rejected,419,East,Married,Unemployed,3,2010-12-23
+CUST00459,Anna,Hernandez,Female,67,Current,68166.51,26589.0,Approved,840,Central,Single,Employed,6,2011-01-01
+CUST00460,Sarah,Smith,Male,57,Current,53382.62,0.0,Approved,665,West,Married,Employed,5,2011-01-10
+CUST00461,Michael,Davis,Female,46,Current,17643.0,0.0,Rejected,844,Central,Single,Employed,5,2011-01-18
+CUST00462,Sarah,Martinez,Female,24,Current,91167.08,0.0,Approved,500,North,Married,Employed,3,2011-01-27
+CUST00463,Robert,Smith,Female,28,Savings,22663.82,0.0,Approved,432,Central,Single,Self-Employed,2,2011-02-05
+CUST00464,Jane,Smith,Male,33,Fixed Deposit,17982.12,0.0,Pending,337,East,Married,Unemployed,4,2011-02-14
+CUST00465,Chris,Garcia,Male,79,Fixed Deposit,7275.29,26589.0,Rejected,808,West,Married,Retired,9,2011-02-23
+CUST00466,Emily,Smith,Female,32,Salary,41876.43,0.0,Pending,590,East,Single,Employed,7,2011-03-03
+CUST00467,Anna,Johnson,Male,76,Savings,56034.83,0.0,Pending,641,East,Single,Employed,1,2011-03-12
+CUST00468,David,Garcia,Male,33,Savings,44137.72,26589.0,Approved,800,Central,Single,Retired,6,2011-03-21
+CUST00469,John,Martinez,Male,76,Savings,25966.7,0.0,Approved,548,South,Married,Employed,4,2011-03-30
+CUST00470,Laura,Miller,Male,31,Current,38523.63,26589.0,Approved,640,East,Married,Unemployed,1,2011-04-07
+CUST00471,Jane,Miller,Female,59,Savings,6587.4,0.0,Approved,436,East,Married,Employed,4,2011-04-16
+CUST00472,Jane,Davis,Male,75,Savings,35146.34,0.0,Pending,654,North,Single,Retired,3,2011-04-25
+CUST00473,Sarah,Martinez,Male,49,Current,7831.1,0.0,Pending,364,West,Single,Employed,8,2011-05-04
+CUST00474,David,Martinez,Male,54,Fixed Deposit,6218.55,26589.0,Approved,592,Central,Married,Self-Employed,9,2011-05-12
+CUST00475,Jane,Davis,Female,53,Current,67489.01,0.0,Approved,552,South,Married,Self-Employed,3,2011-05-21
+CUST00476,John,Johnson,Female,59,Current,6384.72,0.0,Approved,846,South,Single,Employed,2,2011-05-30
+CUST00477,Robert,Martinez,Female,45,Current,91633.05,26589.0,Pending,460,East,Single,Self-Employed,2,2011-06-08
+CUST00478,David,Johnson,Male,24,Current,47844.31,0.0,Approved,668,East,Single,Employed,3,2011-06-17
+CUST00479,Chris,Williams,Female,47,Current,79641.05,26589.0,Approved,528,East,Married,Self-Employed,5,2011-06-25
+CUST00480,John,Johnson,Female,51,Savings,38257.87,0.0,Approved,349,East,Single,Self-Employed,3,2011-07-04
+CUST00481,Jane,Miller,Male,65,Savings,7712.0,26589.0,Approved,580,West,Married,Self-Employed,2,2011-07-13
+CUST00482,John,Johnson,Female,31,Current,53796.37,0.0,Approved,532,South,Married,Self-Employed,5,2011-07-22
+CUST00483,Emily,Martinez,Female,57,Savings,24254.05,0.0,Pending,708,West,Married,Unemployed,2,2011-07-30
+CUST00484,Robert,Garcia,Female,34,Savings,26423.91,26589.0,Approved,308,West,Single,Employed,3,2011-08-08
+CUST00485,Emily,Miller,Male,37,Fixed Deposit,6601.7,26589.0,Approved,830,North,Single,Unemployed,2,2011-08-17
+CUST00486,David,Miller,Male,65,Fixed Deposit,66123.59,26589.0,Pending,821,South,Married,Unemployed,4,2011-08-26
+CUST00487,Robert,Miller,Male,43,Current,49511.14,0.0,Rejected,808,Central,Married,Employed,8,2011-09-04
+CUST00488,Chris,Davis,Male,62,Current,59186.34,0.0,Pending,669,South,Single,Employed,3,2011-09-12
+CUST00489,John,Johnson,Male,68,Current,67963.41,0.0,Approved,339,South,Married,Self-Employed,5,2011-09-21
+CUST00490,Laura,Brown,Female,45,Current,65193.96,0.0,Rejected,577,South,Single,Employed,6,2011-09-30
+CUST00491,Anna,Davis,Female,64,Current,58196.34,0.0,Approved,575,Central,Married,Unemployed,1,2011-10-09
+CUST00492,Anna,Martinez,Female,36,Savings,8595.9,0.0,Pending,671,West,Married,Employed,4,2011-10-17
+CUST00493,David,Williams,Male,68,Savings,19135.84,0.0,Rejected,331,South,Divorced,Unemployed,1,2011-10-26
+CUST00494,John,Miller,Male,53,Savings,51627.87,0.0,Pending,373,West,Single,Employed,3,2011-11-04
+CUST00495,Michael,Miller,Female,76,Current,5481.78,0.0,Pending,565,West,Widowed,Self-Employed,8,2011-11-13
+CUST00496,Sarah,Brown,Female,33,Fixed Deposit,54530.35,26589.0,Approved,460,East,Married,Employed,7,2011-11-22
+CUST00497,Robert,Johnson,Female,65,Savings,39466.92,26589.0,Approved,807,South,Married,Employed,2,2011-11-30
+CUST00498,Robert,Johnson,Female,74,Current,14335.75,0.0,Pending,407,South,Single,Self-Employed,7,2011-12-09
+CUST00499,Laura,Miller,Non-Binary,72,Savings,82646.86,26589.0,Approved,453,North,Divorced,Employed,2,2011-12-18
+CUST00500,Sarah,Garcia,Non-Binary,72,Current,87828.19,0.0,Approved,574,West,Single,Employed,2,2011-12-27
+CUST00501,David,Brown,Female,35,Savings,25699.43,0.0,Approved,794,South,Single,Unemployed,8,2012-01-04
+CUST00502,Robert,Johnson,Female,20,Fixed Deposit,10793.49,0.0,Approved,701,West,Single,Employed,2,2012-01-13
+CUST00503,Anna,Jones,Female,49,Current,68121.38,0.0,Pending,508,Central,Single,Self-Employed,7,2012-01-22
+CUST00504,Sarah,Garcia,Male,33,Savings,27123.57,0.0,Approved,628,North,Single,Employed,1,2012-01-31
+CUST00505,Jane,Davis,Female,78,Current,92478.06,0.0,Pending,503,South,Married,Employed,3,2012-02-08
+CUST00506,Michael,Davis,Male,30,Fixed Deposit,82189.06,0.0,Pending,623,West,Married,Retired,9,2012-02-17
+CUST00507,Chris,Williams,Female,68,Fixed Deposit,40164.01,0.0,Approved,411,Central,Single,Employed,1,2012-02-26
+CUST00508,John,Garcia,Male,67,Current,63970.24,26589.0,Rejected,466,South,Married,Unemployed,5,2012-03-06
+CUST00509,Emily,Hernandez,Male,21,Current,4934.47,26589.0,Approved,423,East,Single,Self-Employed,7,2012-03-15
+CUST00510,Emily,Williams,Female,18,Current,56264.97,0.0,Rejected,536,West,Single,Employed,2,2012-03-23
+CUST00511,Emily,Martinez,Non-Binary,53,Current,32445.5,26589.0,Pending,359,Central,Married,Employed,9,2012-04-01
+CUST00512,John,Jones,Male,45,Savings,37110.56,0.0,Approved,349,East,Single,Self-Employed,7,2012-04-10
+CUST00513,Sarah,Hernandez,Male,30,Savings,6328.21,0.0,Pending,521,North,Married,Employed,5,2012-04-19
+CUST00514,Robert,Brown,Male,76,Current,76039.53,0.0,Pending,554,West,Married,Employed,8,2012-04-27
+CUST00515,Sarah,Hernandez,Male,34,Current,58113.32,26589.0,Approved,673,Central,Single,Self-Employed,3,2012-05-06
+CUST00516,Jane,Martinez,Male,45,Fixed Deposit,56725.54,0.0,Rejected,412,North,Single,Self-Employed,5,2012-05-15
+CUST00517,David,Brown,Male,69,Current,65876.98,0.0,Approved,314,South,Married,Employed,2,2012-05-24
+CUST00518,Sarah,Garcia,Male,78,Current,9624.93,0.0,Pending,523,South,Single,Employed,8,2012-06-02
+CUST00519,Anna,Smith,Male,60,Current,8985.72,0.0,Rejected,679,South,Married,Retired,7,2012-06-10
+CUST00520,Anna,Brown,Female,69,Savings,46445.58,0.0,Approved,693,East,Single,Self-Employed,7,2012-06-19
+CUST00521,Sarah,Smith,Male,57,Savings,41326.51,26589.0,Rejected,491,East,Married,Unemployed,1,2012-06-28
+CUST00522,Laura,Davis,Female,69,Fixed Deposit,91161.46,0.0,Pending,578,East,Single,Retired,5,2012-07-07
+CUST00523,Laura,Hernandez,Male,55,Fixed Deposit,27204.38,0.0,Rejected,769,North,Single,Employed,9,2012-07-15
+CUST00524,Sarah,Johnson,Male,40,Current,66766.52,0.0,Approved,495,Central,Single,Self-Employed,2,2012-07-24
+CUST00525,Sarah,Johnson,Female,27,Savings,96129.16,26589.0,Rejected,527,East,Single,Employed,4,2012-08-02
+CUST00526,Emily,Smith,Female,66,Savings,14212.1,0.0,Rejected,772,Central,Married,Employed,4,2012-08-11
+CUST00527,John,Martinez,Female,37,Savings,78052.82,0.0,Pending,816,North,Married,Unemployed,2,2012-08-20
+CUST00528,Chris,Davis,Male,36,Current,35169.47,26589.0,Approved,561,West,Single,Employed,9,2012-08-28
+CUST00529,Sarah,Hernandez,Female,37,Fixed Deposit,11676.35,26589.0,Approved,664,West,Divorced,Employed,2,2012-09-06
+CUST00530,Laura,Hernandez,Male,42,Savings,16926.78,26589.0,Pending,841,South,Married,Employed,7,2012-09-15
+CUST00531,Jane,Davis,Female,30,Fixed Deposit,37570.74,0.0,Approved,526,Central,Married,Self-Employed,6,2012-09-24
+CUST00532,Chris,Williams,Female,28,Current,97509.86,0.0,Pending,585,Central,Single,Self-Employed,7,2012-10-02
+CUST00533,David,Johnson,Male,62,Savings,73143.65,0.0,Approved,680,East,Married,Employed,1,2012-10-11
+CUST00534,Laura,Smith,Non-Binary,31,Fixed Deposit,3949.45,0.0,Pending,748,South,Single,Unemployed,8,2012-10-20
+CUST00535,Robert,Johnson,Male,43,Current,38230.85,0.0,Pending,518,South,Single,Unemployed,7,2012-10-29
+CUST00536,Emily,Jones,Non-Binary,63,Salary,57014.78,0.0,Pending,386,North,Married,Unemployed,3,2012-11-06
+CUST00537,John,Johnson,Female,78,Current,51888.68,26589.0,Pending,751,North,Married,Employed,3,2012-11-15
+CUST00538,David,Smith,Male,31,Savings,11158.08,0.0,Rejected,502,Central,Married,Self-Employed,2,2012-11-24
+CUST00539,David,Miller,Male,57,Savings,17993.61,0.0,Pending,811,North,Married,Self-Employed,9,2012-12-03
+CUST00540,Sarah,Hernandez,Male,47,Savings,79111.62,26589.0,Approved,467,South,Divorced,Employed,3,2012-12-12
+CUST00541,Chris,Johnson,Male,23,Savings,12901.37,0.0,Approved,519,Central,Married,Retired,1,2012-12-20
+CUST00542,Michael,Jones,Female,77,Savings,44835.24,0.0,Approved,392,Central,Married,Unemployed,9,2012-12-29
+CUST00543,David,Johnson,Female,72,Fixed Deposit,22985.3,0.0,Pending,724,West,Single,Unemployed,2,2013-01-07
+CUST00544,Robert,Martinez,Female,35,Salary,15190.25,26589.0,Rejected,739,South,Single,Unemployed,5,2013-01-16
+CUST00545,Laura,Williams,Male,76,Savings,75406.02,0.0,Approved,660,Central,Single,Employed,4,2013-01-24
+CUST00546,Anna,Davis,Female,32,Savings,87690.33,26589.0,Approved,384,West,Married,Employed,7,2013-02-02
+CUST00547,Laura,Johnson,Female,59,Savings,25387.89,0.0,Approved,535,Central,Married,Self-Employed,1,2013-02-11
+CUST00548,Sarah,Smith,Female,20,Fixed Deposit,29828.42,26589.0,Rejected,352,West,Married,Self-Employed,1,2013-02-20
+CUST00549,Robert,Johnson,Female,72,Fixed Deposit,5915.89,0.0,Approved,365,East,Divorced,Unemployed,2,2013-03-01
+CUST00550,Anna,Hernandez,Female,18,Savings,8659.66,26589.0,Approved,398,West,Widowed,Employed,2,2013-03-09
+CUST00551,Robert,Hernandez,Male,70,Savings,5106.54,26589.0,Approved,733,North,Married,Self-Employed,4,2013-03-18
+CUST00552,Laura,Johnson,Male,35,Salary,77587.43,26589.0,Rejected,608,North,Single,Retired,8,2013-03-27
+CUST00553,Anna,Garcia,Male,46,Current,43260.64,26589.0,Rejected,809,West,Married,Employed,8,2013-04-05
+CUST00554,Michael,Martinez,Male,22,Savings,88782.25,26589.0,Rejected,443,South,Single,Employed,3,2013-04-13
+CUST00555,Anna,Garcia,Female,70,Current,33311.09,0.0,Pending,397,East,Married,Employed,8,2013-04-22
+CUST00556,Sarah,Hernandez,Female,54,Savings,60018.16,26589.0,Rejected,740,Central,Single,Unemployed,6,2013-05-01
+CUST00557,John,Miller,Female,54,Savings,477.82,0.0,Approved,393,North,Married,Employed,8,2013-05-10
+CUST00558,Anna,Smith,Male,73,Savings,91896.16,26589.0,Rejected,400,Central,Single,Unemployed,5,2013-05-18
+CUST00559,Emily,Williams,Female,63,Fixed Deposit,16159.68,0.0,Pending,419,Central,Married,Employed,7,2013-05-27
+CUST00560,Chris,Hernandez,Female,34,Current,86857.46,0.0,Approved,534,Central,Married,Employed,5,2013-06-05
+CUST00561,Chris,Hernandez,Female,79,Savings,81632.46,0.0,Rejected,472,North,Married,Employed,2,2013-06-14
+CUST00562,Chris,Smith,Male,52,Fixed Deposit,21406.93,0.0,Pending,628,North,Married,Unemployed,2,2013-06-23
+CUST00563,Jane,Davis,Female,68,Current,43288.88,26589.0,Approved,485,South,Married,Employed,3,2013-07-01
+CUST00564,David,Jones,Male,43,Fixed Deposit,1268.84,26589.0,Rejected,677,South,Single,Employed,2,2013-07-10
+CUST00565,Robert,Jones,Female,21,Savings,10932.99,26589.0,Rejected,499,West,Single,Unemployed,7,2013-07-19
+CUST00566,Jane,Miller,Female,43,Savings,17207.53,0.0,Rejected,589,Central,Single,Retired,4,2013-07-28
+CUST00567,Robert,Williams,Male,32,Savings,30987.51,26589.0,Rejected,707,South,Single,Employed,5,2013-08-05
+CUST00568,Chris,Martinez,Male,78,Fixed Deposit,93838.86,26589.0,Pending,788,North,Married,Employed,8,2013-08-14
+CUST00569,Sarah,Brown,Female,48,Savings,44826.36,0.0,Approved,498,Central,Married,Employed,4,2013-08-23
+CUST00570,Anna,Jones,Male,69,Savings,42937.27,0.0,Approved,343,South,Single,Unemployed,4,2013-09-01
+CUST00571,Chris,Smith,Male,45,Savings,19692.32,0.0,Pending,674,South,Single,Self-Employed,5,2013-09-10
+CUST00572,David,Davis,Female,63,Savings,3229.08,0.0,Approved,789,Central,Married,Employed,1,2013-09-18
+CUST00573,Sarah,Hernandez,Male,41,Savings,92078.54,0.0,Approved,531,South,Married,Employed,2,2013-09-27
+CUST00574,Sarah,Brown,Male,34,Savings,90410.02,26589.0,Approved,553,East,Single,Retired,5,2013-10-06
+CUST00575,Sarah,Martinez,Male,34,Fixed Deposit,22509.21,26589.0,Rejected,665,Central,Divorced,Retired,6,2013-10-15
+CUST00576,Jane,Miller,Male,40,Savings,77606.5,26589.0,Approved,849,South,Single,Employed,9,2013-10-23
+CUST00577,Anna,Smith,Male,67,Current,860.02,26589.0,Approved,573,North,Married,Retired,3,2013-11-01
+CUST00578,Chris,Jones,Male,55,Salary,90455.3,26589.0,Approved,697,Central,Married,Employed,7,2013-11-10
+CUST00579,Sarah,Williams,Male,54,Savings,97132.94,0.0,Approved,634,West,Single,Employed,2,2013-11-19
+CUST00580,Emily,Martinez,Male,71,Salary,41873.04,0.0,Approved,322,West,Married,Employed,7,2013-11-28
+CUST00581,Chris,Miller,Female,75,Savings,29512.72,26589.0,Approved,609,North,Single,Employed,2,2013-12-06
+CUST00582,Emily,Brown,Female,67,Current,82804.26,0.0,Rejected,601,Central,Married,Employed,8,2013-12-15
+CUST00583,Sarah,Smith,Female,41,Fixed Deposit,98284.03,26589.0,Approved,342,West,Married,Self-Employed,2,2013-12-24
+CUST00584,Anna,Miller,Female,45,Current,6117.88,0.0,Approved,760,North,Married,Self-Employed,2,2014-01-02
+CUST00585,Anna,Hernandez,Female,48,Fixed Deposit,71281.66,26589.0,Approved,352,Central,Married,Self-Employed,5,2014-01-10
+CUST00586,Laura,Johnson,Female,49,Savings,86344.86,26589.0,Rejected,435,East,Single,Self-Employed,7,2014-01-19
+CUST00587,Jane,Garcia,Male,44,Current,3015.13,0.0,Approved,515,South,Single,Unemployed,1,2014-01-28
+CUST00588,John,Johnson,Non-Binary,20,Fixed Deposit,9825.04,26589.0,Approved,494,West,Single,Unemployed,5,2014-02-06
+CUST00589,Anna,Smith,Male,66,Current,57886.63,0.0,Approved,848,West,Single,Self-Employed,5,2014-02-14
+CUST00590,Emily,Martinez,Male,72,Savings,61444.61,26589.0,Approved,803,West,Married,Employed,6,2014-02-23
+CUST00591,Laura,Williams,Female,39,Savings,28258.72,0.0,Approved,467,North,Married,Unemployed,3,2014-03-04
+CUST00592,Jane,Brown,Female,33,Savings,4030.22,0.0,Pending,622,Central,Divorced,Self-Employed,7,2014-03-13
+CUST00593,Anna,Martinez,Female,45,Current,15188.62,26589.0,Pending,696,West,Married,Unemployed,3,2014-03-22
+CUST00594,Anna,Williams,Male,59,Savings,87483.46,26589.0,Approved,415,West,Divorced,Unemployed,1,2014-03-30
+CUST00595,Laura,Williams,Female,70,Savings,35523.85,0.0,Approved,338,North,Single,Unemployed,6,2014-04-08
+CUST00596,Anna,Davis,Female,37,Savings,80445.34,26589.0,Approved,609,East,Married,Employed,1,2014-04-17
+CUST00597,Sarah,Smith,Female,58,Savings,671.26,26589.0,Pending,765,East,Single,Employed,2,2014-04-26
+CUST00598,Anna,Jones,Female,51,Current,35175.52,0.0,Approved,716,East,Single,Self-Employed,1,2014-05-04
+CUST00599,Michael,Miller,Male,32,Salary,55382.06,0.0,Approved,620,North,Single,Employed,4,2014-05-13
+CUST00600,Robert,Hernandez,Male,59,Savings,96161.87,26589.0,Approved,460,West,Single,Employed,7,2014-05-22
+CUST00601,David,Miller,Female,67,Savings,37850.26,26589.0,Approved,519,East,Married,Unemployed,5,2014-05-31
+CUST00602,Anna,Garcia,Female,35,Savings,97322.64,0.0,Approved,395,Central,Single,Unemployed,5,2014-06-09
+CUST00603,Michael,Miller,Female,27,Savings,87718.89,0.0,Rejected,421,West,Single,Employed,2,2014-06-17
+CUST00604,Laura,Brown,Male,73,Savings,21352.21,26589.0,Pending,362,East,Married,Employed,3,2014-06-26
+CUST00605,Chris,Brown,Male,74,Fixed Deposit,6776.81,26589.0,Pending,520,West,Single,Self-Employed,6,2014-07-05
+CUST00606,Emily,Miller,Female,66,Current,42212.62,26589.0,Approved,521,North,Married,Employed,6,2014-07-14
+CUST00607,Michael,Smith,Female,64,Current,62586.33,0.0,Rejected,537,East,Single,Employed,6,2014-07-22
+CUST00608,Emily,Jones,Female,43,Savings,94217.19,0.0,Rejected,797,Central,Married,Unemployed,7,2014-07-31
+CUST00609,Chris,Hernandez,Male,29,Savings,8430.16,0.0,Approved,805,West,Single,Employed,4,2014-08-09
+CUST00610,Emily,Miller,Female,33,Current,15135.98,26589.0,Approved,313,North,Single,Unemployed,5,2014-08-18
+CUST00611,Jane,Brown,Female,72,Current,5696.85,26589.0,Rejected,498,North,Married,Employed,1,2014-08-27
+CUST00612,Robert,Johnson,Male,22,Savings,2997.3,0.0,Approved,461,South,Married,Employed,3,2014-09-04
+CUST00613,Laura,Martinez,Female,49,Current,6552.72,26589.0,Pending,534,South,Single,Unemployed,7,2014-09-13
+CUST00614,Michael,Miller,Female,59,Current,95071.59,26589.0,Approved,337,North,Widowed,Employed,2,2014-09-22
+CUST00615,Robert,Martinez,Male,67,Fixed Deposit,8541.87,26589.0,Rejected,455,East,Single,Unemployed,2,2014-10-01
+CUST00616,Anna,Martinez,Female,51,Salary,43821.32,26589.0,Pending,784,Central,Single,Employed,9,2014-10-09
+CUST00617,Sarah,Smith,Female,39,Current,47164.28,0.0,Approved,366,West,Single,Employed,9,2014-10-18
+CUST00618,Laura,Hernandez,Male,35,Savings,39813.27,26589.0,Approved,329,West,Single,Unemployed,9,2014-10-27
+CUST00619,Anna,Jones,Male,20,Savings,38894.83,0.0,Approved,449,Central,Married,Employed,3,2014-11-05
+CUST00620,Sarah,Brown,Male,24,Savings,12929.2,26589.0,Rejected,645,East,Single,Employed,5,2014-11-13
+CUST00621,Anna,Brown,Female,21,Savings,38757.32,0.0,Approved,600,Central,Married,Employed,1,2014-11-22
+CUST00622,Emily,Miller,Female,66,Fixed Deposit,26935.39,0.0,Approved,570,East,Single,Retired,3,2014-12-01
+CUST00623,Emily,Johnson,Male,23,Salary,63983.01,0.0,Rejected,598,Central,Married,Employed,5,2014-12-10
+CUST00624,Robert,Martinez,Male,63,Fixed Deposit,84708.71,0.0,Approved,787,North,Single,Self-Employed,3,2014-12-19
+CUST00625,Chris,Garcia,Male,46,Fixed Deposit,13212.9,26589.0,Rejected,362,West,Married,Self-Employed,1,2014-12-27
+CUST00626,Michael,Williams,Male,70,Current,2528.7,26589.0,Pending,683,West,Married,Employed,5,2015-01-05
+CUST00627,Emily,Garcia,Female,22,Fixed Deposit,38662.21,0.0,Pending,534,East,Single,Employed,7,2015-01-14
+CUST00628,Chris,Hernandez,Female,44,Salary,70862.63,0.0,Rejected,401,West,Single,Unemployed,4,2015-01-23
+CUST00629,Sarah,Brown,Male,37,Current,90836.38,26589.0,Approved,440,Central,Single,Employed,1,2015-01-31
+CUST00630,Jane,Smith,Male,70,Savings,96627.92,26589.0,Pending,623,West,Married,Employed,1,2015-02-09
+CUST00631,Jane,Miller,Male,37,Current,10406.89,0.0,Pending,486,North,Single,Self-Employed,2,2015-02-18
+CUST00632,Chris,Garcia,Male,71,Current,62851.91,26589.0,Pending,576,Central,Single,Employed,2,2015-02-27
+CUST00633,David,Hernandez,Female,29,Salary,99266.88,26589.0,Approved,537,South,Single,Employed,1,2015-03-08
+CUST00634,David,Brown,Male,64,Savings,22251.28,0.0,Approved,457,North,Divorced,Retired,1,2015-03-16
+CUST00635,Laura,Garcia,Female,67,Fixed Deposit,58979.29,0.0,Rejected,633,Central,Married,Retired,5,2015-03-25
+CUST00636,John,Brown,Female,34,Current,33754.13,26589.0,Pending,558,South,Married,Unemployed,1,2015-04-03
+CUST00637,John,Jones,Male,29,Current,76345.74,26589.0,Pending,518,West,Married,Self-Employed,1,2015-04-12
+CUST00638,Robert,Williams,Male,79,Savings,17480.41,0.0,Approved,351,West,Married,Employed,1,2015-04-20
+CUST00639,Robert,Miller,Male,22,Current,52798.1,26589.0,Approved,529,West,Single,Employed,5,2015-04-29
+CUST00640,Emily,Garcia,Female,38,Salary,42908.44,26589.0,Approved,606,East,Single,Unemployed,7,2015-05-08
+CUST00641,Emily,Davis,Female,78,Fixed Deposit,95234.77,0.0,Approved,491,South,Divorced,Employed,3,2015-05-17
+CUST00642,Anna,Davis,Male,37,Savings,22593.39,26589.0,Approved,501,Central,Single,Self-Employed,4,2015-05-25
+CUST00643,Laura,Davis,Non-Binary,46,Savings,26346.34,26589.0,Rejected,518,South,Married,Employed,1,2015-06-03
+CUST00644,John,Martinez,Male,62,Savings,72952.52,26589.0,Approved,654,South,Single,Employed,6,2015-06-12
+CUST00645,Anna,Martinez,Male,36,Savings,60484.44,0.0,Approved,594,West,Single,Retired,6,2015-06-21
+CUST00646,Sarah,Hernandez,Male,70,Savings,17648.87,26589.0,Approved,647,South,Married,Self-Employed,4,2015-06-30
+CUST00647,John,Smith,Male,42,Salary,98370.28,0.0,Pending,810,Central,Single,Retired,2,2015-07-08
+CUST00648,Michael,Miller,Female,21,Savings,2021.22,0.0,Rejected,349,South,Married,Retired,2,2015-07-17
+CUST00649,Chris,Davis,Female,22,Savings,68715.75,0.0,Approved,461,East,Married,Self-Employed,6,2015-07-26
+CUST00650,Jane,Brown,Female,51,Fixed Deposit,49208.86,26589.0,Approved,734,North,Single,Employed,5,2015-08-04
+CUST00651,Michael,Hernandez,Male,45,Current,4503.21,0.0,Pending,321,South,Single,Self-Employed,6,2015-08-12
+CUST00652,Robert,Johnson,Male,59,Current,12749.04,26589.0,Pending,552,North,Single,Employed,9,2015-08-21
+CUST00653,Chris,Davis,Male,58,Salary,71880.88,26589.0,Approved,588,East,Single,Employed,3,2015-08-30
+CUST00654,David,Williams,Female,67,Savings,177.77,0.0,Rejected,420,West,Single,Unemployed,1,2015-09-08
+CUST00655,Laura,Garcia,Male,59,Savings,1047.38,0.0,Pending,317,North,Married,Employed,1,2015-09-17
+CUST00656,Michael,Smith,Male,55,Salary,60268.12,0.0,Approved,392,Central,Single,Employed,7,2015-09-25
+CUST00657,Michael,Brown,Female,41,Savings,37289.01,26589.0,Approved,514,West,Married,Employed,5,2015-10-04
+CUST00658,Robert,Martinez,Female,65,Fixed Deposit,64368.66,0.0,Approved,482,Central,Single,Employed,2,2015-10-13
+CUST00659,Emily,Miller,Male,64,Savings,23726.42,0.0,Rejected,726,West,Married,Unemployed,8,2015-10-22
+CUST00660,David,Jones,Female,57,Savings,26564.1,0.0,Approved,452,West,Single,Self-Employed,7,2015-10-30
+CUST00661,Robert,Miller,Male,75,Salary,17299.61,26589.0,Pending,653,East,Single,Employed,2,2015-11-08
+CUST00662,Laura,Brown,Female,36,Current,83676.66,0.0,Rejected,549,East,Single,Retired,9,2015-11-17
+CUST00663,Robert,Williams,Female,46,Current,89569.0,26589.0,Rejected,670,West,Married,Self-Employed,5,2015-11-26
+CUST00664,Robert,Williams,Male,67,Current,51686.36,26589.0,Pending,665,North,Single,Self-Employed,9,2015-12-05
+CUST00665,Jane,Hernandez,Male,29,Current,81640.8,0.0,Approved,427,North,Single,Employed,5,2015-12-13
+CUST00666,Jane,Jones,Female,30,Savings,98487.86,0.0,Approved,806,South,Single,Employed,2,2015-12-22
+CUST00667,Michael,Miller,Non-Binary,55,Savings,90764.1,0.0,Approved,839,West,Single,Employed,3,2015-12-31
+CUST00668,David,Johnson,Male,72,Salary,36450.24,0.0,Approved,760,West,Married,Unemployed,6,2016-01-09
+CUST00669,Michael,Davis,Male,58,Fixed Deposit,3449.01,26589.0,Pending,592,West,Married,Employed,2,2016-01-17
+CUST00670,Sarah,Jones,Female,24,Current,91702.38,0.0,Approved,548,South,Divorced,Employed,3,2016-01-26
+CUST00671,Chris,Johnson,Female,31,Current,56434.03,0.0,Approved,619,Central,Single,Unemployed,1,2016-02-04
+CUST00672,Michael,Hernandez,Male,69,Salary,61275.65,26589.0,Approved,514,South,Married,Retired,7,2016-02-13
+CUST00673,David,Brown,Male,75,Savings,93345.53,26589.0,Approved,602,Central,Single,Employed,4,2016-02-21
+CUST00674,Robert,Brown,Male,61,Savings,68384.71,26589.0,Rejected,811,East,Married,Self-Employed,3,2016-03-01
+CUST00675,John,Davis,Male,38,Salary,96361.83,0.0,Approved,444,Central,Single,Self-Employed,8,2016-03-10
+CUST00676,Laura,Williams,Male,64,Current,44928.71,0.0,Pending,533,Central,Married,Self-Employed,6,2016-03-19
+CUST00677,Sarah,Miller,Male,41,Fixed Deposit,13004.83,26589.0,Approved,631,South,Single,Employed,9,2016-03-28
+CUST00678,Robert,Smith,Female,69,Current,83075.08,0.0,Approved,303,Central,Married,Employed,7,2016-04-05
+CUST00679,Laura,Hernandez,Male,43,Savings,19341.28,26589.0,Approved,840,Central,Married,Unemployed,3,2016-04-14
+CUST00680,Sarah,Williams,Female,42,Savings,20964.88,26589.0,Pending,725,West,Married,Employed,3,2016-04-23
+CUST00681,Anna,Jones,Male,42,Current,69932.8,0.0,Pending,502,South,Divorced,Self-Employed,4,2016-05-02
+CUST00682,Robert,Davis,Male,28,Savings,56701.25,26589.0,Approved,674,West,Single,Employed,9,2016-05-10
+CUST00683,Robert,Martinez,Female,71,Savings,29219.64,0.0,Approved,769,West,Single,Employed,6,2016-05-19
+CUST00684,Jane,Davis,Female,70,Fixed Deposit,33665.65,26589.0,Approved,724,East,Married,Unemployed,7,2016-05-28
+CUST00685,Emily,Miller,Male,21,Savings,93695.66,0.0,Approved,751,North,Married,Employed,7,2016-06-06
+CUST00686,John,Johnson,Male,58,Savings,69850.95,0.0,Pending,582,West,Single,Employed,6,2016-06-15
+CUST00687,David,Martinez,Female,64,Savings,10554.78,26589.0,Approved,412,Central,Married,Self-Employed,3,2016-06-23
+CUST00688,Chris,Johnson,Male,35,Current,1332.39,26589.0,Rejected,372,West,Single,Employed,2,2016-07-02
+CUST00689,John,Garcia,Female,60,Current,60034.62,0.0,Rejected,379,Central,Married,Unemployed,8,2016-07-11
+CUST00690,John,Garcia,Male,56,Savings,53128.26,0.0,Approved,640,East,Single,Employed,9,2016-07-20
+CUST00691,Anna,Martinez,Female,79,Savings,65919.34,0.0,Approved,453,North,Single,Self-Employed,9,2016-07-28
+CUST00692,Michael,Smith,Female,25,Savings,17310.51,0.0,Approved,815,North,Married,Unemployed,8,2016-08-06
+CUST00693,David,Williams,Male,61,Savings,97371.9,0.0,Pending,309,West,Married,Retired,8,2016-08-15
+CUST00694,Chris,Jones,Female,36,Salary,44329.42,26589.0,Approved,818,South,Married,Employed,4,2016-08-24
+CUST00695,Chris,Brown,Female,64,Savings,78058.6,0.0,Pending,478,East,Single,Self-Employed,1,2016-09-01
+CUST00696,Chris,Martinez,Female,22,Current,69492.52,26589.0,Pending,803,South,Married,Unemployed,7,2016-09-10
+CUST00697,David,Davis,Female,68,Fixed Deposit,47150.54,26589.0,Pending,650,North,Married,Employed,4,2016-09-19
+CUST00698,Anna,Brown,Non-Binary,66,Savings,38948.92,0.0,Approved,477,West,Single,Employed,9,2016-09-28
+CUST00699,Jane,Miller,Female,75,Fixed Deposit,28854.29,0.0,Pending,393,West,Widowed,Unemployed,1,2016-10-07
+CUST00700,David,Martinez,Female,19,Current,50986.1,0.0,Approved,682,Central,Single,Employed,6,2016-10-15
+CUST00701,Michael,Hernandez,Male,42,Savings,25509.23,0.0,Rejected,312,East,Married,Employed,1,2016-10-24
+CUST00702,Emily,Smith,Male,38,Salary,34676.02,26589.0,Rejected,699,West,Married,Employed,4,2016-11-02
+CUST00703,Robert,Miller,Female,30,Salary,91829.89,0.0,Approved,509,East,Single,Employed,9,2016-11-11
+CUST00704,Chris,Davis,Female,50,Savings,21892.63,26589.0,Pending,562,South,Divorced,Employed,7,2016-11-19
+CUST00705,David,Davis,Male,50,Current,30739.02,0.0,Rejected,463,Central,Single,Employed,8,2016-11-28
+CUST00706,David,Davis,Male,74,Salary,87753.36,0.0,Approved,623,West,Single,Employed,1,2016-12-07
+CUST00707,Robert,Davis,Female,19,Savings,96676.1,26589.0,Pending,833,East,Divorced,Employed,1,2016-12-16
+CUST00708,Jane,Garcia,Male,68,Salary,88286.42,26589.0,Approved,780,East,Married,Employed,3,2016-12-25
+CUST00709,Michael,Williams,Non-Binary,64,Fixed Deposit,97814.34,26589.0,Pending,542,East,Divorced,Self-Employed,1,2017-01-02
+CUST00710,Emily,Brown,Female,36,Savings,70512.2,0.0,Approved,766,North,Single,Retired,7,2017-01-11
+CUST00711,Laura,Martinez,Male,37,Savings,9032.11,26589.0,Approved,691,North,Single,Employed,8,2017-01-20
+CUST00712,John,Smith,Female,24,Current,4470.1,0.0,Rejected,744,Central,Divorced,Retired,7,2017-01-29
+CUST00713,Sarah,Brown,Female,49,Savings,94235.42,26589.0,Pending,401,South,Married,Employed,3,2017-02-06
+CUST00714,Sarah,Garcia,Female,25,Fixed Deposit,37818.08,26589.0,Pending,323,East,Single,Employed,7,2017-02-15
+CUST00715,Michael,Smith,Female,58,Salary,61192.53,26589.0,Approved,493,Central,Single,Employed,1,2017-02-24
+CUST00716,Sarah,Williams,Female,52,Salary,63213.64,0.0,Pending,677,South,Single,Employed,6,2017-03-05
+CUST00717,Sarah,Jones,Female,35,Savings,41934.6,26589.0,Approved,571,North,Single,Unemployed,3,2017-03-14
+CUST00718,John,Johnson,Female,64,Savings,32184.96,26589.0,Rejected,847,West,Married,Employed,5,2017-03-22
+CUST00719,Robert,Johnson,Female,40,Current,72170.51,0.0,Rejected,573,South,Married,Employed,2,2017-03-31
+CUST00720,John,Williams,Female,71,Current,47026.88,0.0,Approved,697,North,Married,Employed,4,2017-04-09
+CUST00721,Robert,Garcia,Female,28,Salary,64803.97,0.0,Pending,488,South,Single,Self-Employed,3,2017-04-18
+CUST00722,Sarah,Hernandez,Male,49,Fixed Deposit,85425.76,26589.0,Approved,778,South,Married,Retired,3,2017-04-26
+CUST00723,Jane,Garcia,Female,68,Fixed Deposit,54849.05,0.0,Pending,613,South,Single,Employed,2,2017-05-05
+CUST00724,Sarah,Martinez,Male,57,Current,52963.82,0.0,Pending,533,West,Married,Self-Employed,9,2017-05-14
+CUST00725,Chris,Garcia,Male,50,Savings,96590.35,0.0,Rejected,518,Central,Divorced,Employed,8,2017-05-23
+CUST00726,John,Hernandez,Female,62,Current,58572.51,0.0,Pending,765,East,Divorced,Retired,3,2017-05-31
+CUST00727,John,Miller,Female,24,Fixed Deposit,74493.31,26589.0,Approved,546,Central,Single,Unemployed,1,2017-06-09
+CUST00728,Emily,Hernandez,Female,53,Savings,85438.73,26589.0,Rejected,345,North,Married,Employed,9,2017-06-18
+CUST00729,Jane,Williams,Female,47,Fixed Deposit,27993.23,0.0,Rejected,796,East,Married,Self-Employed,1,2017-06-27
+CUST00730,Laura,Brown,Female,20,Current,59073.48,26589.0,Approved,555,South,Married,Employed,4,2017-07-06
+CUST00731,Emily,Davis,Female,68,Savings,27103.57,0.0,Pending,535,North,Divorced,Employed,9,2017-07-14
+CUST00732,Emily,Johnson,Male,49,Savings,45290.68,26589.0,Pending,725,East,Single,Employed,8,2017-07-23
+CUST00733,Sarah,Brown,Female,72,Savings,78809.01,0.0,Approved,771,South,Married,Employed,1,2017-08-01
+CUST00734,Sarah,Jones,Female,64,Savings,4321.33,0.0,Rejected,501,East,Single,Unemployed,5,2017-08-10
+CUST00735,Laura,Martinez,Male,77,Fixed Deposit,82316.26,26589.0,Approved,641,East,Married,Employed,2,2017-08-18
+CUST00736,Anna,Brown,Male,45,Fixed Deposit,54507.01,0.0,Approved,670,South,Divorced,Retired,3,2017-08-27
+CUST00737,Sarah,Martinez,Non-Binary,26,Savings,29438.19,26589.0,Approved,377,West,Single,Employed,3,2017-09-05
+CUST00738,Sarah,Johnson,Male,24,Current,82111.04,26589.0,Rejected,774,West,Married,Employed,5,2017-09-14
+CUST00739,Chris,Hernandez,Male,77,Savings,54307.47,26589.0,Approved,434,East,Single,Unemployed,4,2017-09-23
+CUST00740,Robert,Johnson,Male,34,Current,80858.43,26589.0,Rejected,476,East,Married,Employed,8,2017-10-01
+CUST00741,Sarah,Johnson,Female,73,Savings,84073.66,0.0,Rejected,813,North,Married,Employed,4,2017-10-10
+CUST00742,Sarah,Johnson,Female,74,Salary,65866.89,26589.0,Rejected,339,East,Single,Unemployed,6,2017-10-19
+CUST00743,Michael,Johnson,Male,50,Salary,53247.1,26589.0,Pending,840,East,Married,Unemployed,1,2017-10-28
+CUST00744,Laura,Martinez,Male,69,Savings,68671.32,26589.0,Approved,424,Central,Single,Employed,1,2017-11-05
+CUST00745,Robert,Jones,Female,32,Current,7831.38,26589.0,Approved,799,Central,Single,Retired,2,2017-11-14
+CUST00746,David,Miller,Female,75,Savings,56254.9,0.0,Approved,691,West,Married,Employed,2,2017-11-23
+CUST00747,Jane,Garcia,Male,62,Savings,97547.53,0.0,Rejected,841,West,Married,Self-Employed,4,2017-12-02
+CUST00748,Robert,Miller,Male,76,Fixed Deposit,43042.48,0.0,Rejected,821,Central,Married,Employed,9,2017-12-11
+CUST00749,Laura,Miller,Male,34,Fixed Deposit,47802.93,0.0,Approved,803,Central,Married,Employed,6,2017-12-19
+CUST00750,Robert,Miller,Female,42,Savings,30045.67,26589.0,Approved,826,North,Single,Employed,2,2017-12-28
+CUST00751,David,Garcia,Non-Binary,76,Current,5142.33,0.0,Approved,763,North,Single,Employed,5,2018-01-06
+CUST00752,Michael,Miller,Male,19,Fixed Deposit,48834.39,0.0,Pending,697,West,Married,Employed,3,2018-01-15
+CUST00753,John,Hernandez,Male,43,Savings,38475.44,0.0,Approved,822,East,Married,Employed,8,2018-01-23
+CUST00754,Michael,Miller,Male,65,Salary,52539.6,0.0,Approved,743,South,Single,Employed,6,2018-02-01
+CUST00755,Jane,Smith,Female,54,Current,24020.58,0.0,Approved,376,Central,Single,Unemployed,7,2018-02-10
+CUST00756,Robert,Johnson,Male,67,Salary,60941.99,0.0,Approved,768,South,Single,Unemployed,7,2018-02-19
+CUST00757,John,Williams,Female,70,Current,63943.19,0.0,Approved,404,South,Married,Unemployed,2,2018-02-27
+CUST00758,Michael,Williams,Female,59,Savings,1559.71,0.0,Pending,730,West,Single,Unemployed,2,2018-03-08
+CUST00759,Laura,Johnson,Male,58,Current,6766.72,26589.0,Pending,725,East,Single,Employed,7,2018-03-17
+CUST00760,Anna,Martinez,Male,18,Savings,47457.7,26589.0,Pending,782,East,Single,Self-Employed,3,2018-03-26
+CUST00761,John,Miller,Female,77,Salary,1549.29,0.0,Approved,652,South,Divorced,Self-Employed,8,2018-04-04
+CUST00762,Anna,Hernandez,Female,29,Savings,98985.86,26589.0,Approved,680,South,Single,Employed,5,2018-04-12
+CUST00763,Michael,Miller,Male,31,Current,86046.12,26589.0,Approved,828,Central,Married,Employed,2,2018-04-21
+CUST00764,Chris,Hernandez,Female,73,Savings,83115.1,0.0,Approved,464,Central,Single,Employed,3,2018-04-30
+CUST00765,John,Martinez,Male,33,Current,90810.95,0.0,Approved,506,North,Married,Employed,2,2018-05-09
+CUST00766,David,Garcia,Male,44,Savings,97450.47,26589.0,Approved,760,Central,Single,Unemployed,4,2018-05-17
+CUST00767,Sarah,Davis,Female,58,Fixed Deposit,74714.36,0.0,Approved,759,East,Single,Employed,9,2018-05-26
+CUST00768,Robert,Johnson,Female,44,Current,755.25,26589.0,Pending,326,West,Single,Employed,8,2018-06-04
+CUST00769,Robert,Johnson,Female,50,Salary,37613.07,26589.0,Pending,348,Central,Married,Employed,8,2018-06-13
+CUST00770,Michael,Miller,Female,42,Savings,51219.29,0.0,Approved,695,South,Married,Unemployed,9,2018-06-22
+CUST00771,Laura,Hernandez,Female,69,Fixed Deposit,43701.28,0.0,Approved,484,North,Single,Employed,2,2018-06-30
+CUST00772,David,Hernandez,Female,55,Savings,48123.33,0.0,Pending,432,Central,Single,Employed,6,2018-07-09
+CUST00773,Jane,Garcia,Female,43,Salary,15210.42,0.0,Pending,773,West,Married,Self-Employed,6,2018-07-18
+CUST00774,David,Jones,Female,51,Current,10657.04,0.0,Rejected,335,North,Married,Retired,8,2018-07-27
+CUST00775,Robert,Garcia,Female,54,Savings,20516.9,26589.0,Approved,747,West,Single,Unemployed,5,2018-08-04
+CUST00776,Laura,Garcia,Female,79,Fixed Deposit,17691.72,0.0,Approved,740,Central,Single,Self-Employed,3,2018-08-13
+CUST00777,Laura,Hernandez,Female,68,Current,62665.68,0.0,Pending,561,West,Single,Unemployed,3,2018-08-22
+CUST00778,David,Williams,Male,65,Fixed Deposit,52773.88,0.0,Approved,581,East,Divorced,Employed,6,2018-08-31
+CUST00779,Jane,Williams,Female,70,Current,64263.3,0.0,Pending,619,South,Single,Employed,3,2018-09-08
+CUST00780,Chris,Hernandez,Male,21,Current,10030.79,26589.0,Rejected,835,East,Single,Unemployed,7,2018-09-17
+CUST00781,Laura,Williams,Male,63,Salary,82504.91,26589.0,Approved,620,West,Single,Employed,5,2018-09-26
+CUST00782,John,Johnson,Male,64,Salary,807.3,0.0,Approved,810,West,Single,Self-Employed,1,2018-10-05
+CUST00783,Michael,Hernandez,Female,41,Current,11129.38,26589.0,Pending,523,West,Single,Self-Employed,3,2018-10-14
+CUST00784,Robert,Hernandez,Female,51,Fixed Deposit,22966.81,0.0,Approved,316,East,Single,Employed,1,2018-10-22
+CUST00785,John,Williams,Female,54,Fixed Deposit,25678.57,26589.0,Pending,409,West,Single,Employed,6,2018-10-31
+CUST00786,Emily,Brown,Female,23,Savings,82125.05,0.0,Approved,670,East,Single,Retired,4,2018-11-09
+CUST00787,Jane,Williams,Female,41,Savings,34887.14,0.0,Approved,475,North,Married,Self-Employed,4,2018-11-18
+CUST00788,Jane,Smith,Female,57,Savings,71686.0,0.0,Approved,701,East,Married,Employed,4,2018-11-26
+CUST00789,Michael,Davis,Male,68,Savings,12136.27,0.0,Approved,438,East,Single,Employed,4,2018-12-05
+CUST00790,John,Miller,Female,67,Fixed Deposit,24267.52,0.0,Approved,504,West,Single,Unemployed,1,2018-12-14
+CUST00791,David,Johnson,Male,76,Salary,65517.79,0.0,Pending,712,South,Married,Employed,3,2018-12-23
+CUST00792,David,Jones,Female,34,Current,5748.94,0.0,Approved,435,North,Single,Self-Employed,2,2019-01-01
+CUST00793,John,Williams,Female,45,Savings,55769.68,26589.0,Approved,801,West,Single,Self-Employed,4,2019-01-09
+CUST00794,Robert,Davis,Female,54,Savings,54297.22,0.0,Pending,507,North,Single,Employed,4,2019-01-18
+CUST00795,John,Williams,Female,36,Current,64578.64,0.0,Pending,308,Central,Divorced,Unemployed,6,2019-01-27
+CUST00796,David,Davis,Male,63,Current,45995.87,0.0,Pending,484,Central,Single,Unemployed,5,2019-02-05
+CUST00797,Chris,Miller,Female,18,Savings,26588.29,0.0,Approved,598,East,Married,Employed,9,2019-02-13
+CUST00798,Anna,Johnson,Female,37,Salary,4901.13,26589.0,Pending,701,South,Married,Self-Employed,3,2019-02-22
+CUST00799,Jane,Jones,Male,35,Current,41563.83,26589.0,Pending,714,West,Single,Employed,9,2019-03-03
+CUST00800,Michael,Miller,Female,55,Savings,74577.32,26589.0,Approved,313,North,Single,Self-Employed,1,2019-03-12
+CUST00801,Robert,Jones,Male,29,Savings,44157.57,0.0,Pending,430,West,Single,Employed,1,2019-03-21
+CUST00802,Michael,Williams,Male,58,Fixed Deposit,1840.5,26589.0,Approved,648,Central,Single,Retired,3,2019-03-29
+CUST00803,Jane,Martinez,Female,32,Savings,72543.57,0.0,Pending,671,North,Single,Employed,6,2019-04-07
+CUST00804,David,Davis,Female,41,Current,14425.17,0.0,Pending,618,South,Single,Employed,1,2019-04-16
+CUST00805,Sarah,Martinez,Male,78,Savings,57224.87,26589.0,Pending,628,East,Single,Unemployed,7,2019-04-25
+CUST00806,Laura,Miller,Female,18,Savings,81281.37,26589.0,Rejected,619,West,Single,Retired,5,2019-05-03
+CUST00807,Anna,Jones,Male,76,Savings,72579.86,0.0,Approved,383,East,Married,Unemployed,5,2019-05-12
+CUST00808,David,Martinez,Male,55,Savings,75507.62,0.0,Pending,459,East,Married,Employed,1,2019-05-21
+CUST00809,Jane,Williams,Female,71,Fixed Deposit,75872.25,26589.0,Approved,606,East,Married,Unemployed,3,2019-05-30
+CUST00810,Michael,Miller,Male,20,Fixed Deposit,63178.73,26589.0,Approved,327,East,Single,Self-Employed,9,2019-06-07
+CUST00811,Robert,Brown,Female,64,Savings,80186.8,26589.0,Approved,641,North,Single,Employed,5,2019-06-16
+CUST00812,Anna,Garcia,Male,44,Fixed Deposit,75379.37,0.0,Rejected,569,East,Single,Employed,1,2019-06-25
+CUST00813,Michael,Hernandez,Non-Binary,34,Fixed Deposit,19795.43,26589.0,Rejected,518,South,Married,Unemployed,9,2019-07-04
+CUST00814,Sarah,Davis,Female,43,Current,73458.09,0.0,Pending,326,South,Single,Unemployed,2,2019-07-13
+CUST00815,Emily,Davis,Female,31,Savings,25217.02,0.0,Rejected,783,Central,Married,Employed,4,2019-07-21
+CUST00816,Anna,Davis,Male,63,Current,12726.24,26589.0,Pending,397,Central,Married,Unemployed,6,2019-07-30
+CUST00817,Sarah,Miller,Female,24,Fixed Deposit,69829.14,26589.0,Pending,428,North,Married,Self-Employed,5,2019-08-08
+CUST00818,Jane,Williams,Female,74,Fixed Deposit,70791.49,0.0,Approved,836,East,Widowed,Self-Employed,2,2019-08-17
+CUST00819,Sarah,Miller,Male,49,Salary,6176.34,0.0,Rejected,355,South,Single,Retired,7,2019-08-25
+CUST00820,David,Jones,Male,47,Savings,48509.47,0.0,Rejected,316,South,Single,Unemployed,1,2019-09-03
+CUST00821,Jane,Williams,Female,20,Fixed Deposit,82605.06,0.0,Approved,803,North,Single,Employed,1,2019-09-12
+CUST00822,Emily,Johnson,Female,78,Savings,16593.61,0.0,Approved,566,South,Divorced,Employed,5,2019-09-21
+CUST00823,Laura,Jones,Female,34,Savings,24892.13,0.0,Approved,595,East,Married,Retired,3,2019-09-30
+CUST00824,Emily,Miller,Female,32,Savings,92154.93,0.0,Pending,321,South,Single,Self-Employed,1,2019-10-08
+CUST00825,Emily,Johnson,Male,19,Salary,72784.35,26589.0,Approved,807,East,Divorced,Employed,8,2019-10-17
+CUST00826,Anna,Davis,Female,62,Salary,78364.99,26589.0,Approved,583,South,Married,Employed,7,2019-10-26
+CUST00827,Emily,Brown,Male,34,Fixed Deposit,101.3,26589.0,Pending,503,South,Single,Unemployed,5,2019-11-04
+CUST00828,Sarah,Hernandez,Male,27,Savings,71250.57,0.0,Approved,735,Central,Single,Employed,9,2019-11-12
+CUST00829,David,Brown,Male,61,Savings,11672.4,0.0,Approved,405,Central,Single,Unemployed,1,2019-11-21
+CUST00830,Robert,Garcia,Female,65,Current,94807.0,0.0,Approved,641,Central,Single,Employed,8,2019-11-30
+CUST00831,Jane,Davis,Female,23,Savings,78753.55,26589.0,Pending,540,West,Married,Employed,6,2019-12-09
+CUST00832,John,Williams,Female,24,Current,60421.1,0.0,Approved,367,South,Married,Self-Employed,7,2019-12-18
+CUST00833,Jane,Brown,Female,29,Current,8194.96,26589.0,Rejected,360,East,Divorced,Employed,9,2019-12-26
+CUST00834,Emily,Davis,Female,18,Current,23689.14,26589.0,Approved,849,North,Married,Employed,3,2020-01-04
+CUST00835,Chris,Miller,Non-Binary,30,Current,59910.13,0.0,Rejected,841,Central,Single,Unemployed,3,2020-01-13
+CUST00836,Jane,Jones,Male,65,Savings,76838.66,26589.0,Pending,537,South,Divorced,Employed,7,2020-01-22
+CUST00837,Chris,Miller,Male,24,Fixed Deposit,23515.76,26589.0,Approved,519,East,Single,Unemployed,1,2020-01-30
+CUST00838,Sarah,Hernandez,Male,73,Current,70129.03,0.0,Pending,361,West,Single,Employed,5,2020-02-08
+CUST00839,John,Miller,Male,20,Current,83630.33,26589.0,Rejected,376,South,Married,Self-Employed,5,2020-02-17
+CUST00840,Sarah,Miller,Non-Binary,39,Salary,22625.05,26589.0,Approved,561,East,Married,Unemployed,6,2020-02-26
+CUST00841,Robert,Williams,Female,19,Savings,31995.6,26589.0,Approved,775,West,Single,Employed,8,2020-03-05
+CUST00842,Chris,Garcia,Female,78,Savings,20649.66,0.0,Approved,341,South,Married,Retired,9,2020-03-14
+CUST00843,John,Davis,Female,73,Current,92466.21,26589.0,Pending,306,East,Married,Unemployed,3,2020-03-23
+CUST00844,John,Miller,Female,29,Savings,62495.62,26589.0,Pending,800,North,Widowed,Retired,3,2020-04-01
+CUST00845,Chris,Smith,Male,69,Salary,51349.33,0.0,Rejected,640,North,Single,Employed,1,2020-04-10
+CUST00846,Emily,Garcia,Female,42,Savings,63227.51,0.0,Pending,663,East,Married,Employed,5,2020-04-18
+CUST00847,John,Williams,Male,59,Current,90476.67,0.0,Rejected,378,West,Single,Employed,3,2020-04-27
+CUST00848,Robert,Davis,Male,57,Savings,91382.7,0.0,Approved,329,West,Single,Employed,4,2020-05-06
+CUST00849,John,Martinez,Female,78,Current,69638.37,26589.0,Approved,770,West,Single,Employed,9,2020-05-15
+CUST00850,Chris,Davis,Female,74,Current,52916.35,0.0,Approved,723,East,Single,Self-Employed,8,2020-05-23
+CUST00851,John,Davis,Female,42,Current,68035.62,26589.0,Approved,402,East,Single,Employed,5,2020-06-01
+CUST00852,David,Miller,Female,56,Current,61259.28,0.0,Approved,846,West,Married,Retired,9,2020-06-10
+CUST00853,John,Smith,Female,43,Savings,97239.75,0.0,Rejected,439,South,Single,Self-Employed,6,2020-06-19
+CUST00854,Jane,Garcia,Male,20,Current,98586.4,0.0,Approved,787,East,Married,Retired,3,2020-06-28
+CUST00855,Sarah,Johnson,Female,35,Fixed Deposit,15508.08,0.0,Approved,535,Central,Single,Employed,6,2020-07-06
+CUST00856,Emily,Smith,Male,45,Fixed Deposit,17276.24,26589.0,Approved,710,South,Single,Employed,6,2020-07-15
+CUST00857,Anna,Martinez,Female,74,Salary,87621.09,26589.0,Approved,499,North,Married,Employed,5,2020-07-24
+CUST00858,Michael,Davis,Male,50,Fixed Deposit,61027.95,0.0,Approved,536,West,Single,Employed,1,2020-08-02
+CUST00859,Michael,Garcia,Female,34,Salary,99792.0,26589.0,Approved,435,Central,Married,Employed,5,2020-08-10
+CUST00860,Emily,Smith,Female,79,Savings,68087.05,0.0,Approved,540,North,Married,Unemployed,4,2020-08-19
+CUST00861,Jane,Martinez,Male,70,Fixed Deposit,15309.84,26589.0,Rejected,310,Central,Married,Employed,1,2020-08-28
+CUST00862,Emily,Johnson,Female,51,Current,71175.22,0.0,Pending,830,Central,Single,Self-Employed,3,2020-09-06
+CUST00863,Emily,Hernandez,Male,43,Current,53822.97,0.0,Pending,683,East,Single,Employed,6,2020-09-14
+CUST00864,Emily,Jones,Female,75,Savings,44937.24,0.0,Pending,647,East,Single,Self-Employed,3,2020-09-23
+CUST00865,Chris,Martinez,Female,45,Fixed Deposit,79221.44,0.0,Approved,696,Central,Single,Self-Employed,1,2020-10-02
+CUST00866,Robert,Garcia,Male,26,Current,68201.99,26589.0,Approved,494,East,Single,Unemployed,2,2020-10-11
+CUST00867,Anna,Garcia,Male,38,Savings,99081.38,0.0,Pending,445,South,Single,Unemployed,2,2020-10-20
+CUST00868,Jane,Williams,Male,70,Savings,7713.0,0.0,Approved,317,East,Married,Employed,8,2020-10-28
+CUST00869,Anna,Jones,Female,35,Current,98280.27,0.0,Pending,587,East,Married,Employed,8,2020-11-06
+CUST00870,Jane,Jones,Male,23,Savings,14354.47,0.0,Rejected,342,West,Married,Employed,3,2020-11-15
+CUST00871,Anna,Miller,Male,49,Savings,72761.56,26589.0,Approved,838,East,Single,Employed,6,2020-11-24
+CUST00872,Chris,Martinez,Female,30,Salary,77184.87,0.0,Approved,486,North,Married,Unemployed,1,2020-12-02
+CUST00873,Anna,Martinez,Male,72,Current,15033.92,26589.0,Approved,312,North,Single,Employed,1,2020-12-11
+CUST00874,Sarah,Hernandez,Female,55,Fixed Deposit,85964.03,0.0,Approved,330,West,Single,Employed,8,2020-12-20
+CUST00875,Laura,Jones,Male,29,Savings,99867.3,0.0,Rejected,386,South,Married,Employed,9,2020-12-29
+CUST00876,David,Johnson,Female,41,Fixed Deposit,18166.04,26589.0,Approved,749,East,Married,Unemployed,4,2021-01-07
+CUST00877,Anna,Johnson,Male,71,Savings,71576.0,26589.0,Pending,830,West,Married,Unemployed,1,2021-01-15
+CUST00878,Michael,Miller,Male,76,Savings,91254.16,0.0,Approved,395,South,Single,Self-Employed,8,2021-01-24
+CUST00879,Chris,Smith,Male,60,Savings,94731.53,0.0,Rejected,550,Central,Single,Unemployed,1,2021-02-02
+CUST00880,David,Miller,Female,24,Savings,73589.0,26589.0,Pending,807,Central,Married,Employed,6,2021-02-11
+CUST00881,David,Garcia,Male,58,Fixed Deposit,88805.01,0.0,Approved,479,South,Single,Self-Employed,9,2021-02-19
+CUST00882,John,Jones,Female,46,Fixed Deposit,70637.96,0.0,Pending,782,North,Married,Employed,3,2021-02-28
+CUST00883,John,Smith,Male,41,Savings,6858.77,0.0,Approved,730,North,Married,Employed,6,2021-03-09
+CUST00884,Emily,Miller,Male,65,Savings,22912.19,0.0,Approved,486,Central,Married,Employed,9,2021-03-18
+CUST00885,Laura,Williams,Female,36,Salary,15921.73,0.0,Pending,548,North,Single,Employed,4,2021-03-27
+CUST00886,Anna,Jones,Non-Binary,75,Savings,70372.07,26589.0,Approved,348,West,Married,Employed,4,2021-04-04
+CUST00887,Emily,Brown,Male,66,Savings,17840.61,26589.0,Pending,415,West,Single,Self-Employed,7,2021-04-13
+CUST00888,Chris,Hernandez,Female,40,Salary,60755.83,26589.0,Pending,538,Central,Married,Employed,8,2021-04-22
+CUST00889,Emily,Hernandez,Female,48,Savings,41109.31,0.0,Approved,798,West,Married,Unemployed,2,2021-05-01
+CUST00890,Michael,Smith,Female,42,Savings,74542.1,0.0,Pending,843,East,Married,Employed,7,2021-05-09
+CUST00891,Emily,Davis,Male,39,Current,80083.12,0.0,Approved,664,South,Single,Retired,7,2021-05-18
+CUST00892,Laura,Brown,Female,20,Fixed Deposit,66960.73,0.0,Approved,611,South,Single,Retired,9,2021-05-27
+CUST00893,Chris,Garcia,Female,60,Salary,10768.53,26589.0,Rejected,640,East,Single,Unemployed,9,2021-06-05
+CUST00894,Anna,Brown,Female,76,Savings,40510.03,0.0,Pending,675,South,Married,Employed,5,2021-06-13
+CUST00895,Sarah,Davis,Female,77,Savings,65627.83,26589.0,Approved,414,North,Married,Self-Employed,9,2021-06-22
+CUST00896,Robert,Smith,Male,76,Salary,8117.06,0.0,Approved,440,West,Single,Employed,2,2021-07-01
+CUST00897,Sarah,Garcia,Female,40,Savings,76099.43,0.0,Pending,351,West,Married,Employed,2,2021-07-10
+CUST00898,Laura,Garcia,Female,29,Current,28670.38,26589.0,Pending,480,South,Single,Employed,4,2021-07-19
+CUST00899,Michael,Miller,Male,29,Current,26862.03,26589.0,Pending,641,North,Single,Employed,2,2021-07-27
+CUST00900,Jane,Brown,Male,42,Fixed Deposit,33702.32,0.0,Approved,566,North,Single,Employed,9,2021-08-05
+CUST00901,John,Martinez,Male,51,Savings,46322.89,0.0,Rejected,370,South,Married,Self-Employed,4,2021-08-14
+CUST00902,David,Martinez,Female,77,Current,73671.52,26589.0,Approved,631,Central,Single,Unemployed,1,2021-08-23
+CUST00903,Emily,Brown,Female,55,Current,416.63,26589.0,Approved,688,South,Single,Employed,3,2021-08-31
+CUST00904,Chris,Smith,Male,79,Savings,83361.83,0.0,Rejected,730,North,Single,Self-Employed,5,2021-09-09
+CUST00905,Robert,Miller,Female,70,Savings,18263.72,0.0,Approved,789,East,Married,Employed,4,2021-09-18
+CUST00906,Anna,Hernandez,Male,53,Savings,1729.19,26589.0,Pending,501,Central,Divorced,Unemployed,6,2021-09-27
+CUST00907,Michael,Jones,Female,76,Savings,50154.85,0.0,Pending,312,South,Single,Employed,2,2021-10-06
+CUST00908,Jane,Davis,Male,34,Current,53629.04,0.0,Approved,541,South,Married,Employed,4,2021-10-14
+CUST00909,Chris,Smith,Female,46,Savings,35374.58,26589.0,Rejected,485,East,Single,Employed,9,2021-10-23
+CUST00910,Robert,Brown,Male,75,Savings,51336.42,0.0,Approved,402,North,Divorced,Self-Employed,2,2021-11-01
+CUST00911,Anna,Martinez,Male,65,Fixed Deposit,27128.87,0.0,Pending,713,South,Married,Unemployed,5,2021-11-10
+CUST00912,John,Smith,Male,40,Fixed Deposit,12967.14,26589.0,Approved,497,East,Divorced,Self-Employed,4,2021-11-18
+CUST00913,John,Davis,Male,50,Current,24516.37,0.0,Approved,550,North,Married,Employed,9,2021-11-27
+CUST00914,Anna,Williams,Female,29,Savings,53154.71,0.0,Pending,684,North,Married,Unemployed,3,2021-12-06
+CUST00915,Michael,Miller,Male,28,Fixed Deposit,43452.29,0.0,Approved,669,East,Single,Employed,2,2021-12-15
+CUST00916,Anna,Brown,Female,75,Fixed Deposit,8958.45,0.0,Approved,569,North,Married,Retired,5,2021-12-24
+CUST00917,Robert,Jones,Non-Binary,64,Salary,3899.29,26589.0,Approved,582,West,Divorced,Unemployed,3,2022-01-01
+CUST00918,John,Hernandez,Male,40,Savings,56277.53,26589.0,Approved,328,West,Single,Employed,2,2022-01-10
+CUST00919,John,Miller,Male,50,Savings,67527.9,26589.0,Approved,594,Central,Single,Employed,2,2022-01-19
+CUST00920,David,Smith,Female,30,Current,52758.6,0.0,Pending,529,West,Single,Self-Employed,9,2022-01-28
+CUST00921,Jane,Brown,Non-Binary,64,Current,14760.26,26589.0,Rejected,600,North,Married,Employed,5,2022-02-05
+CUST00922,Anna,Miller,Male,21,Savings,49776.32,0.0,Approved,489,West,Single,Retired,2,2022-02-14
+CUST00923,Emily,Jones,Male,57,Fixed Deposit,4772.34,0.0,Approved,339,Central,Single,Employed,8,2022-02-23
+CUST00924,Michael,Miller,Female,59,Salary,36746.53,26589.0,Rejected,837,Central,Divorced,Unemployed,2,2022-03-04
+CUST00925,Laura,Smith,Female,62,Current,6304.75,26589.0,Pending,725,North,Single,Employed,2,2022-03-12
+CUST00926,David,Jones,Female,25,Fixed Deposit,4791.99,0.0,Approved,431,Central,Married,Employed,2,2022-03-21
+CUST00927,Anna,Hernandez,Male,22,Salary,84466.37,26589.0,Pending,470,North,Married,Self-Employed,8,2022-03-30
+CUST00928,John,Johnson,Male,33,Salary,99515.57,26589.0,Approved,818,East,Married,Unemployed,3,2022-04-08
+CUST00929,Jane,Miller,Female,46,Current,53761.93,0.0,Approved,570,North,Married,Employed,8,2022-04-17
+CUST00930,Anna,Johnson,Female,49,Savings,87423.22,0.0,Approved,774,North,Single,Self-Employed,3,2022-04-25
+CUST00931,John,Johnson,Female,33,Savings,80409.75,0.0,Approved,686,North,Single,Employed,3,2022-05-04
+CUST00932,John,Williams,Female,49,Current,40328.3,26589.0,Approved,728,Central,Single,Self-Employed,2,2022-05-13
+CUST00933,Sarah,Hernandez,Female,60,Savings,45914.54,0.0,Approved,801,South,Single,Unemployed,6,2022-05-22
+CUST00934,John,Brown,Female,18,Fixed Deposit,23120.53,0.0,Approved,703,West,Single,Employed,6,2022-05-30
+CUST00935,Chris,Hernandez,Female,51,Savings,94782.68,0.0,Pending,418,North,Single,Employed,8,2022-06-08
+CUST00936,John,Brown,Female,77,Savings,26409.03,26589.0,Pending,374,North,Single,Unemployed,3,2022-06-17
+CUST00937,Michael,Johnson,Male,22,Savings,43478.71,26589.0,Approved,618,West,Single,Self-Employed,9,2022-06-26
+CUST00938,Robert,Martinez,Male,72,Current,51362.67,0.0,Pending,381,Central,Married,Self-Employed,6,2022-07-05
+CUST00939,Sarah,Davis,Female,53,Fixed Deposit,59974.02,0.0,Pending,369,Central,Single,Employed,2,2022-07-13
+CUST00940,Chris,Jones,Male,65,Current,53234.9,0.0,Rejected,426,North,Single,Employed,3,2022-07-22
+CUST00941,John,Jones,Male,30,Fixed Deposit,26865.61,0.0,Pending,407,South,Married,Employed,1,2022-07-31
+CUST00942,David,Miller,Male,34,Savings,49004.21,0.0,Approved,603,East,Single,Employed,4,2022-08-09
+CUST00943,David,Miller,Female,48,Savings,1747.29,0.0,Rejected,512,North,Married,Unemployed,7,2022-08-17
+CUST00944,John,Williams,Male,39,Current,32243.42,26589.0,Approved,743,Central,Divorced,Employed,2,2022-08-26
+CUST00945,Laura,Smith,Male,36,Savings,73290.18,26589.0,Approved,365,North,Married,Employed,7,2022-09-04
+CUST00946,Robert,Garcia,Non-Binary,53,Savings,87389.97,0.0,Rejected,776,West,Single,Self-Employed,2,2022-09-13
+CUST00947,John,Hernandez,Female,67,Fixed Deposit,8149.51,0.0,Approved,510,Central,Married,Unemployed,8,2022-09-21
+CUST00948,Laura,Williams,Male,57,Fixed Deposit,89988.76,26589.0,Pending,804,North,Married,Employed,2,2022-09-30
+CUST00949,Jane,Davis,Male,28,Current,73002.01,26589.0,Approved,419,West,Divorced,Unemployed,2,2022-10-09
+CUST00950,Michael,Davis,Female,61,Savings,49684.09,0.0,Pending,449,Central,Single,Employed,9,2022-10-18
+CUST00951,Robert,Brown,Female,78,Salary,83258.74,26589.0,Approved,664,West,Married,Self-Employed,1,2022-10-27
+CUST00952,Chris,Brown,Female,42,Salary,94082.91,0.0,Approved,643,North,Single,Employed,1,2022-11-04
+CUST00953,Sarah,Jones,Non-Binary,48,Current,40707.36,26589.0,Approved,429,North,Widowed,Employed,2,2022-11-13
+CUST00954,Anna,Johnson,Male,21,Salary,86978.74,26589.0,Approved,506,East,Married,Employed,1,2022-11-22
+CUST00955,Emily,Smith,Female,31,Fixed Deposit,60414.73,26589.0,Rejected,753,West,Married,Employed,3,2022-12-01
+CUST00956,Emily,Williams,Male,43,Savings,40444.36,0.0,Approved,355,North,Single,Self-Employed,1,2022-12-09
+CUST00957,David,Martinez,Female,26,Fixed Deposit,78328.62,0.0,Pending,343,South,Married,Self-Employed,6,2022-12-18
+CUST00958,Chris,Hernandez,Female,38,Fixed Deposit,42295.66,0.0,Approved,738,West,Single,Employed,9,2022-12-27
+CUST00959,Chris,Miller,Male,77,Salary,1477.38,26589.0,Approved,389,Central,Single,Employed,1,2023-01-05
+CUST00960,Anna,Miller,Female,73,Current,66026.85,0.0,Pending,424,South,Married,Unemployed,6,2023-01-14
+CUST00961,Michael,Miller,Male,61,Fixed Deposit,46267.3,26589.0,Approved,764,East,Married,Retired,4,2023-01-22
+CUST00962,John,Martinez,Female,28,Current,95988.43,26589.0,Pending,687,North,Single,Unemployed,1,2023-01-31
+CUST00963,Robert,Williams,Female,19,Salary,82054.19,0.0,Approved,406,West,Divorced,Employed,1,2023-02-09
+CUST00964,Sarah,Jones,Female,50,Salary,66435.43,26589.0,Approved,534,East,Single,Employed,3,2023-02-18
+CUST00965,Laura,Garcia,Female,63,Savings,93867.66,26589.0,Approved,664,East,Married,Retired,5,2023-02-26
+CUST00966,Michael,Jones,Male,49,Savings,26824.92,26589.0,Approved,525,South,Married,Unemployed,4,2023-03-07
+CUST00967,Anna,Jones,Male,22,Fixed Deposit,99996.73,0.0,Approved,301,South,Divorced,Unemployed,3,2023-03-16
+CUST00968,Emily,Brown,Female,46,Savings,57599.89,26589.0,Pending,683,South,Single,Employed,5,2023-03-25
+CUST00969,Laura,Miller,Non-Binary,70,Savings,71255.72,26589.0,Rejected,620,West,Single,Employed,2,2023-04-03
+CUST00970,Anna,Miller,Male,25,Savings,68926.86,26589.0,Pending,465,North,Single,Retired,1,2023-04-11
+CUST00971,Emily,Williams,Non-Binary,73,Savings,93231.72,26589.0,Pending,508,Central,Single,Employed,2,2023-04-20
+CUST00972,Jane,Smith,Female,52,Current,37728.29,0.0,Approved,601,Central,Married,Self-Employed,5,2023-04-29
+CUST00973,Jane,Smith,Female,46,Savings,44209.48,0.0,Approved,596,East,Divorced,Employed,9,2023-05-08
+CUST00974,Sarah,Garcia,Male,58,Savings,61168.66,26589.0,Approved,639,South,Single,Unemployed,5,2023-05-16
+CUST00975,Laura,Garcia,Male,22,Savings,88509.4,26589.0,Approved,659,East,Married,Employed,4,2023-05-25
+CUST00976,John,Martinez,Male,41,Fixed Deposit,72252.08,26589.0,Rejected,476,North,Married,Employed,1,2023-06-03
+CUST00977,Robert,Smith,Female,28,Savings,60885.17,0.0,Approved,801,Central,Married,Unemployed,6,2023-06-12
+CUST00978,David,Smith,Female,73,Savings,19138.07,26589.0,Pending,634,North,Single,Self-Employed,4,2023-06-20
+CUST00979,Robert,Davis,Male,26,Savings,35027.49,26589.0,Approved,762,North,Divorced,Retired,2,2023-06-29
+CUST00980,Emily,Williams,Female,41,Savings,58252.94,26589.0,Pending,493,South,Single,Employed,5,2023-07-08
+CUST00981,Michael,Hernandez,Non-Binary,76,Savings,60066.1,0.0,Approved,431,North,Married,Unemployed,4,2023-07-17
+CUST00982,David,Garcia,Female,78,Savings,48878.36,26589.0,Rejected,632,West,Single,Self-Employed,6,2023-07-26
+CUST00983,Chris,Johnson,Female,40,Current,12230.91,26589.0,Pending,517,South,Married,Self-Employed,1,2023-08-03
+CUST00984,Sarah,Smith,Male,55,Salary,28005.77,0.0,Approved,791,South,Single,Self-Employed,4,2023-08-12
+CUST00985,Laura,Hernandez,Male,77,Current,93066.71,0.0,Rejected,449,South,Single,Unemployed,3,2023-08-21
+CUST00986,Jane,Miller,Male,44,Current,14000.69,0.0,Rejected,653,North,Single,Unemployed,7,2023-08-30
+CUST00987,Robert,Williams,Male,46,Savings,17808.5,0.0,Pending,393,Central,Married,Employed,8,2023-09-07
+CUST00988,Chris,Miller,Male,41,Savings,86960.74,0.0,Approved,668,North,Married,Employed,5,2023-09-16
+CUST00989,Chris,Smith,Female,70,Savings,67354.04,26589.0,Pending,549,North,Single,Employed,4,2023-09-25
+CUST00990,Anna,Garcia,Non-Binary,25,Savings,15273.34,0.0,Pending,679,West,Single,Self-Employed,8,2023-10-04
+CUST00991,John,Miller,Non-Binary,33,Savings,67945.49,26589.0,Rejected,497,West,Single,Self-Employed,5,2023-10-13
+CUST00992,Anna,Garcia,Female,65,Savings,97613.07,0.0,Approved,585,Central,Married,Employed,6,2023-10-21
+CUST00993,Robert,Miller,Male,72,Savings,32464.54,26589.0,Pending,348,East,Single,Unemployed,7,2023-10-30
+CUST00994,Robert,Miller,Male,33,Current,68806.93,26589.0,Pending,792,North,Married,Employed,3,2023-11-08
+CUST00995,Jane,Smith,Female,76,Savings,33945.27,26589.0,Approved,718,Central,Widowed,Self-Employed,8,2023-11-17
+CUST00996,Emily,Martinez,Female,70,Current,93578.18,26589.0,Approved,647,East,Single,Employed,3,2023-11-25
+CUST00997,Michael,Jones,Female,65,Salary,73984.33,0.0,Pending,757,South,Married,Unemployed,2,2023-12-04
+CUST00998,Laura,Miller,Male,60,Savings,88996.39,0.0,Approved,466,South,Single,Unemployed,1,2023-12-13
+CUST00999,Emily,Garcia,Female,70,Savings,21272.47,0.0,Pending,395,East,Single,Unemployed,2,2023-12-22
+CUST01000,Chris,Garcia,Female,69,Fixed Deposit,53492.85,0.0,Pending,491,Central,Single,Employed,4,2023-12-31
