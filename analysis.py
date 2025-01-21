@@ -12,7 +12,7 @@ from sklearn.linear_model import LogisticRegression
 def load_data():
     # Replace 'bank_customers.csv' with the path to your CSV file
    
-    data = pd.read_csv(r"C:\Users\Nigeram Ventures\python-project\bank_customers.csv")
+    data = pd.read_csv(r"bank_customers.csv")
 
     # Clean column names by stripping spaces (if necessary)
     data.columns = data.columns.str.strip()
